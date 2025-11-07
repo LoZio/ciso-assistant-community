@@ -8,8 +8,8 @@ description: "Information security, cybersecurity and privacy protection \u2014 
   \ security management systems \u2014 Requirements"
 copyright: This is the outline of the ISO27001-2022 standard. You can purchase the
   full standard from https://www.iso.org/standard/27001
-version: 13
-publication_date: 2025-11-01
+version: 14
+publication_date: 2025-11-07
 provider: ISO/IEC
 packager: intuitem
 translations:
@@ -85,11 +85,11 @@ objects:
           \ de objetivos y la garant\xEDa de la alineaci\xF3n con los requisitos de\
           \ cumplimiento."
       it:
-        name: Politiche per la sicurezza  delle informazioni
-        description: La politica di sicurezza delle informazioni e le politiche  specifiche
-          per argomento devono essere definite,  approvate dalla direzione, pubblicate,
-          comunicate e  riconosciute dal personale rilevante e dalle parti  interessate
-          pertinenti, e revisionate a intervalli  pianificati e in caso di cambiamenti
+        name: Politiche per la sicurezza delle informazioni
+        description: La politica di sicurezza delle informazioni e le politiche specifiche
+          per argomento devono essere definite, approvate dalla direzione, pubblicate,
+          comunicate e riconosciute dal personale rilevante e dalle parti interessate
+          pertinenti, e revisionate a intervalli pianificati e in caso di cambiamenti
           significativi.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.2
     ref_id: A.5.2
@@ -127,9 +127,9 @@ objects:
           \ Las medidas incluyen documentaci\xF3n clara de las responsabilidades,\
           \ revisiones peri\xF3dicas y mecanismos de cumplimiento."
       it:
-        name: "Ruoli e responsabilit\xE0 per la  sicurezza delle informazioni"
-        description: "I ruoli e le responsabilit\xE0 per la sicurezza delle  informazioni\
-          \ devono essere definiti e assegnati in base  alle esigenze dell'organizzazione."
+        name: "Ruoli e responsabilit\xE0 per la sicurezza delle informazioni"
+        description: "I ruoli e le responsabilit\xE0 per la sicurezza delle informazioni\
+          \ devono essere definiti e assegnati in base alle esigenze dell'organizzazione."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.3
     ref_id: A.5.3
     name: Segregation of duties
@@ -164,7 +164,7 @@ objects:
           dicas."
       it:
         name: Separazione dei compiti
-        description: "I compiti in conflitto e le aree di responsabilit\xE0 in  conflitto\
+        description: "I compiti in conflitto e le aree di responsabilit\xE0 in conflitto\
           \ devono essere separate."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.4
     ref_id: A.5.4
@@ -200,11 +200,11 @@ objects:
           \ implementadas. Las medidas incluyen el establecimiento de objetivos, la\
           \ asignaci\xF3n de recursos y la supervisi\xF3n del cumplimiento."
       it:
-        name: "Responsabilit\xE0 della  direzione"
-        description: "La direzione deve richiedere a tutto il personale di  applicare\
-          \ la sicurezza delle informazioni in conformit\xE0  con la politica di sicurezza\
-          \ delle informazioni stabilita, le  politiche specifiche per argomento e\
-          \ le procedure  dell'organizzazione."
+        name: "Responsabilit\xE0 della direzione"
+        description: "La direzione deve richiedere a tutto il personale di applicare\
+          \ la sicurezza delle informazioni in conformit\xE0 con la politica di sicurezza\
+          \ delle informazioni stabilita, le politiche specifiche per argomento e\
+          \ le procedure dell'organizzazione."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.5
     ref_id: A.5.5
     name: Contact with authorities
@@ -242,7 +242,7 @@ objects:
           \ responsabilidades."
       it:
         name: "Contatti con le autorit\xE0"
-        description: "L'organizzazione deve stabilire e mantenere contatti  con le\
+        description: "L'organizzazione deve stabilire e mantenere contatti con le\
           \ autorit\xE0 pertinenti."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.6
     ref_id: A.5.6
@@ -276,9 +276,9 @@ objects:
           \ Las medidas incluyen la participaci\xF3n en foros, membres\xEDas e iniciativas\
           \ de colaboraci\xF3n."
       it:
-        name: Contatti con gruppi di  interesse speciale
-        description: L'organizzazione deve stabilire e mantenere contatti  con gruppi
-          di interesse speciale o altri forum  specialistici sulla sicurezza e associazioni
+        name: Contatti con gruppi di interesse speciale
+        description: L'organizzazione deve stabilire e mantenere contatti con gruppi
+          di interesse speciale o altri forum specialistici sulla sicurezza e associazioni
           professionali.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.7
     ref_id: A.5.7
@@ -316,8 +316,8 @@ objects:
           \ y el intercambio de informaci\xF3n procesable."
       it:
         name: Intelligence sulle minacce
-        description: Le informazioni relative alle minacce alla sicurezza delle  informazioni
-          devono essere raccolte e analizzate per  produrre intelligence sulle minacce.
+        description: Le informazioni relative alle minacce alla sicurezza delle informazioni
+          devono essere raccolte e analizzate per produrre intelligence sulle minacce.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.8
     ref_id: A.5.8
     name: Information security in project management
@@ -351,9 +351,9 @@ objects:
           \ de riesgos, revisiones de cumplimiento y puntos de control de seguridad\
           \ durante los ciclos de vida del proyecto."
       it:
-        name: Sicurezza delle informazioni  nella gestione dei progetti
-        description: La sicurezza delle informazioni deve essere integrata  nella
-          gestione dei progetti.
+        name: Sicurezza delle informazioni nella gestione dei progetti
+        description: La sicurezza delle informazioni deve essere integrata nella gestione
+          dei progetti.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.9
     ref_id: A.5.9
     name: Inventory of information and other associated assets
@@ -386,9 +386,9 @@ objects:
           \ seguimiento de activos, auditor\xEDas peri\xF3dicas y clasificaci\xF3\
           n por sensibilidad."
       it:
-        name: Inventario delle informazioni  e di altri asset associati
-        description: Deve essere sviluppato e mantenuto un inventario delle  informazioni
-          e degli altri asset associati, inclusi i  proprietari.
+        name: Inventario delle informazioni e di altri asset associati
+        description: Deve essere sviluppato e mantenuto un inventario delle informazioni
+          e degli altri asset associati, inclusi i proprietari.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.10
     ref_id: A.5.10
     name: Acceptable use of information and other associated assets
@@ -425,10 +425,10 @@ objects:
           \ incluyen pol\xEDticas documentadas, capacitaci\xF3n de usuarios y mecanismos\
           \ de cumplimiento."
       it:
-        name: Utilizzo accettabile delle  informazioni e di altri asset  associati
-        description: Devono essere identificate, documentate e  implementate regole
-          per l'utilizzo accettabile e  procedure per la gestione delle informazioni
-          e degli altri  asset associati.
+        name: Utilizzo accettabile delle informazioni e di altri asset associati
+        description: Devono essere identificate, documentate e implementate regole
+          per l'utilizzo accettabile e procedure per la gestione delle informazioni
+          e degli altri asset associati.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.11
     ref_id: A.5.11
     name: Return of assets
@@ -463,9 +463,9 @@ objects:
           \ de desmantelamiento."
       it:
         name: Restituzione degli asset
-        description: Il personale e altre parti interessate, se appropriato,  devono
-          restituire tutti gli asset dell'organizzazione in  loro possesso al momento
-          del cambiamento o della  cessazione del loro impiego, contratto o accordo.
+        description: Il personale e altre parti interessate, se appropriato, devono
+          restituire tutti gli asset dell'organizzazione in loro possesso al momento
+          del cambiamento o della cessazione del loro impiego, contratto o accordo.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.12
     ref_id: A.5.12
     name: Classification of information
@@ -501,10 +501,10 @@ objects:
           n adecuada. Las medidas incluyen esquemas de clasificaci\xF3n, restricciones\
           \ de acceso y pautas de etiquetado."
       it:
-        name: Classificazione delle  informazioni
-        description: "Le informazioni devono essere classificate in base alle  esigenze\
-          \ di sicurezza delle informazioni  dell'organizzazione, in base a confidenzialit\xE0\
-          , integrit\xE0,  disponibilit\xE0 e requisiti pertinenti delle parti interessate."
+        name: Classificazione delle informazioni
+        description: "Le informazioni devono essere classificate in base alle esigenze\
+          \ di sicurezza delle informazioni dell'organizzazione, in base a confidenzialit\xE0\
+          , integrit\xE0, disponibilit\xE0 e requisiti pertinenti delle parti interessate."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.13
     ref_id: A.5.13
     name: Labelling of information
@@ -536,10 +536,10 @@ objects:
           n para reflejar sus requisitos de clasificaci\xF3n y manejo. Las medidas\
           \ incluyen plantillas estandarizadas, capacitaci\xF3n y auditor\xEDas."
       it:
-        name: Etichettatura delle  informazioni
-        description: "Deve essere sviluppato e implementato un insieme  appropriato\
-          \ di procedure per l'etichettatura delle  informazioni, in conformit\xE0\
-          \ con lo schema di  classificazione delle informazioni adottato  dall'organizzazione."
+        name: Etichettatura delle informazioni
+        description: "Deve essere sviluppato e implementato un insieme appropriato\
+          \ di procedure per l'etichettatura delle informazioni, in conformit\xE0\
+          \ con lo schema di classificazione delle informazioni adottato dall'organizzazione."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.14
     ref_id: A.5.14
     name: Information transfer
@@ -572,10 +572,10 @@ objects:
           \ de informaci\xF3n entre sistemas u organizaciones. Las medidas incluyen\
           \ cifrado, controles de acceso y protocolos de transferencia segura."
       it:
-        name: Trasferimento delle  informazioni
-        description: Devono essere in vigore un insieme di regole,  procedure o accordi
-          per il trasferimento delle  informazioni in tutti i tipi di strutture di
-          trasferimento  all'interno dell'organizzazione e tra l'organizzazione e  altre
+        name: Trasferimento delle informazioni
+        description: Devono essere in vigore un insieme di regole, procedure o accordi
+          per il trasferimento delle informazioni in tutti i tipi di strutture di
+          trasferimento all'interno dell'organizzazione e tra l'organizzazione e altre
           parti.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.15
     ref_id: A.5.15
@@ -613,9 +613,9 @@ objects:
           \ las revisiones peri\xF3dicas."
       it:
         name: Controllo degli accessi
-        description: Devono essere stabilite e implementate regole per  controllare
-          l'accesso fisico e logico alle informazioni e  ad altri asset associati,
-          in base ai requisiti aziendali e di  sicurezza delle informazioni.
+        description: Devono essere stabilite e implementate regole per controllare
+          l'accesso fisico e logico alle informazioni e ad altri asset associati,
+          in base ai requisiti aziendali e di sicurezza delle informazioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.16
     ref_id: A.5.16
     name: Identity management
@@ -652,7 +652,7 @@ objects:
           \ de vida y el aprovisionamiento de acceso."
       it:
         name: "Gestione delle identit\xE0"
-        description: "Il ciclo di vita completo delle identit\xE0 deve essere  gestito."
+        description: "Il ciclo di vita completo delle identit\xE0 deve essere gestito."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.17
     ref_id: A.5.17
     name: Authentication information
@@ -686,10 +686,10 @@ objects:
           \ incluyen cifrado, almacenamiento seguro y actualizaciones peri\xF3dicas\
           \ de contrase\xF1as."
       it:
-        name: Informazioni di  autenticazione
-        description: L'assegnazione e la gestione delle informazioni di  autenticazione
-          devono essere controllate da un  processo gestionale, incluso l'avviso al
-          personale  sull'adeguato trattamento delle informazioni di  autenticazione.
+        name: Informazioni di autenticazione
+        description: L'assegnazione e la gestione delle informazioni di autenticazione
+          devono essere controllate da un processo gestionale, incluso l'avviso al
+          personale sull'adeguato trattamento delle informazioni di autenticazione.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.18
     ref_id: A.5.18
     name: Access rights
@@ -726,10 +726,10 @@ objects:
           \ y gesti\xF3n automatizada del acceso."
       it:
         name: Diritti di accesso
-        description: "I diritti di accesso alle informazioni e ad altri asset  associati\
-          \ devono essere forniti, revisionati, modificati e  rimossi in conformit\xE0\
-          \ con la politica specifica per  argomento e le regole dell'organizzazione\
-          \ per il  controllo degli accessi."
+        description: "I diritti di accesso alle informazioni e ad altri asset associati\
+          \ devono essere forniti, revisionati, modificati e rimossi in conformit\xE0\
+          \ con la politica specifica per argomento e le regole dell'organizzazione\
+          \ per il controllo degli accessi."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.19
     ref_id: A.5.19
     name: Information security in supplier relationships
@@ -763,10 +763,10 @@ objects:
           \ Las medidas incluyen la diligencia debida, las revisiones de seguridad\
           \ y el monitoreo continuo."
       it:
-        name: Sicurezza delle informazioni  nelle relazioni con i fornitori
-        description: Devono essere definite e implementate procedure e  processi per
-          gestire i rischi per la sicurezza delle  informazioni associati all'uso
-          dei prodotti o servizi del  fornitore.
+        name: Sicurezza delle informazioni nelle relazioni con i fornitori
+        description: Devono essere definite e implementate procedure e processi per
+          gestire i rischi per la sicurezza delle informazioni associati all'uso dei
+          prodotti o servizi del fornitore.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.20
     ref_id: A.5.20
     name: Addressing information security within supplier agreements
@@ -802,10 +802,10 @@ objects:
           usulas contractuales expl\xEDcitas, auditor\xEDas de cumplimiento y sanciones\
           \ definidas por infracciones."
       it:
-        name: Affrontare la sicurezza delle  informazioni nei contratti  con i fornitori
-        description: Requisiti pertinenti per la sicurezza delle informazioni  devono
-          essere stabiliti e concordati con ciascun  fornitore in base al tipo di
-          relazione con il fornitore.
+        name: Affrontare la sicurezza delle informazioni nei contratti con i fornitori
+        description: Requisiti pertinenti per la sicurezza delle informazioni devono
+          essere stabiliti e concordati con ciascun fornitore in base al tipo di relazione
+          con il fornitore.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.21
     ref_id: A.5.21
     name: Managing information security in the ICT supply chain
@@ -843,11 +843,11 @@ objects:
           \ servicios y componentes. Las medidas incluyen evaluaciones de riesgos,\
           \ evaluaciones de proveedores y protocolos de respuesta a incidentes."
       it:
-        name: Gestione della sicurezza  delle informazioni nella  catena di  approvvigionamento
+        name: Gestione della sicurezza delle informazioni nella catena di approvvigionamento
           ICT
-        description: Devono essere definiti e implementati processi e  procedure per
-          gestire i rischi per la sicurezza delle  informazioni associati alla catena
-          di  approvvigionamento di prodotti e servizi ICT.
+        description: Devono essere definiti e implementati processi e procedure per
+          gestire i rischi per la sicurezza delle informazioni associati alla catena
+          di approvvigionamento di prodotti e servizi ICT.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.22
     ref_id: A.5.22
     name: Monitor, review and change management of supplier services
@@ -883,10 +883,10 @@ objects:
           n. Las medidas incluyen acuerdos de nivel de servicio, revisiones peri\xF3\
           dicas y actualizaciones de contratos."
       it:
-        name: Monitoraggio, revisione e  gestione dei servizi dei  fornitori
-        description: L'organizzazione deve monitorare regolarmente,  revisionare,
-          valutare e gestire i cambiamenti nelle  pratiche di sicurezza delle informazioni
-          e nella fornitura  dei servizi da parte dei fornitori.
+        name: Monitoraggio, revisione e gestione dei servizi dei fornitori
+        description: L'organizzazione deve monitorare regolarmente, revisionare, valutare
+          e gestire i cambiamenti nelle pratiche di sicurezza delle informazioni e
+          nella fornitura dei servizi da parte dei fornitori.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.23
     ref_id: A.5.23
     name: Information security for use of cloud services
@@ -920,10 +920,10 @@ objects:
           al abordar los riesgos asociados. Las medidas incluyen cifrado de datos,
           controles de acceso y revisiones de cumplimiento de proveedores.
       it:
-        name: Sicurezza delle informazioni  per l'uso dei servizi cloud
+        name: Sicurezza delle informazioni per l'uso dei servizi cloud
         description: "Devono essere stabiliti processi per l'acquisizione, l'uso,\
-          \  la gestione e l'uscita dai servizi cloud in conformit\xE0 con i  requisiti\
-          \ di sicurezza delle informazioni  dell'organizzazione."
+          \ la gestione e l'uscita dai servizi cloud in conformit\xE0 con i requisiti\
+          \ di sicurezza delle informazioni dell'organizzazione."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.24
     ref_id: A.5.24
     name: Information security incident management planning and preparation
@@ -960,12 +960,12 @@ objects:
           n. Las medidas incluyen planes de respuesta a incidentes, ejercicios de\
           \ capacitaci\xF3n y protocolos de comunicaci\xF3n."
       it:
-        name: Pianificazione e  preparazione per la gestione  degli incidenti di sicurezza  delle
-          informazioni
-        description: "L'organizzazione deve pianificare e prepararsi per  gestire\
-          \ gli incidenti di sicurezza delle informazioni  definendo, istituendo e\
-          \ comunicando processi, ruoli e  responsabilit\xE0 per la gestione degli\
-          \ incidenti di  sicurezza delle informazioni."
+        name: Pianificazione e preparazione per la gestione degli incidenti di sicurezza
+          delle informazioni
+        description: "L'organizzazione deve pianificare e prepararsi per gestire gli\
+          \ incidenti di sicurezza delle informazioni definendo, istituendo e comunicando\
+          \ processi, ruoli e responsabilit\xE0 per la gestione degli incidenti di\
+          \ sicurezza delle informazioni."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.25
     ref_id: A.5.25
     name: Assessment and decision on information security events
@@ -1003,10 +1003,10 @@ objects:
           \ medidas incluyen an\xE1lisis de causa ra\xEDz, evaluaci\xF3n de riesgos\
           \ y planes de mitigaci\xF3n."
       it:
-        name: Valutazione e decisione sugli  eventi di sicurezza delle  informazioni
-        description: L'organizzazione deve valutare gli eventi di sicurezza  delle
-          informazioni e decidere se devono essere  categorizzati come incidenti di
-          sicurezza delle  informazioni.
+        name: Valutazione e decisione sugli eventi di sicurezza delle informazioni
+        description: L'organizzazione deve valutare gli eventi di sicurezza delle
+          informazioni e decidere se devono essere categorizzati come incidenti di
+          sicurezza delle informazioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.26
     ref_id: A.5.26
     name: Response to information security incidents
@@ -1041,9 +1041,9 @@ objects:
           \ r\xE1pidamente. Las medidas incluyen informes de incidentes, protocolos\
           \ de escalada y estrategias de contenci\xF3n."
       it:
-        name: Risposta agli incidenti di  sicurezza delle informazioni
-        description: "Gli incidenti di sicurezza delle informazioni devono  essere\
-          \ gestiti in conformit\xE0 con le procedure  documentate."
+        name: Risposta agli incidenti di sicurezza delle informazioni
+        description: "Gli incidenti di sicurezza delle informazioni devono essere\
+          \ gestiti in conformit\xE0 con le procedure documentate."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.27
     ref_id: A.5.27
     name: Learning from information security incidents
@@ -1080,10 +1080,10 @@ objects:
           \ los procesos. Las medidas incluyen revisiones posteriores al incidente,\
           \ planes de acci\xF3n y actualizaciones de pol\xEDticas."
       it:
-        name: Apprendimento dagli  incidenti di sicurezza delle  informazioni
-        description: Le conoscenze acquisite dagli incidenti di sicurezza delle  informazioni
-          devono essere utilizzate per rafforzare e  migliorare i controlli della
-          sicurezza delle informazioni.
+        name: Apprendimento dagli incidenti di sicurezza delle informazioni
+        description: Le conoscenze acquisite dagli incidenti di sicurezza delle informazioni
+          devono essere utilizzate per rafforzare e migliorare i controlli della sicurezza
+          delle informazioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.28
     ref_id: A.5.28
     name: Collection of evidence
@@ -1120,9 +1120,9 @@ objects:
           seguro y controles de acceso.
       it:
         name: Raccolta di prove
-        description: L'organizzazione deve stabilire e implementare  procedure per
-          l'identificazione, la raccolta,  l'acquisizione e la conservazione di prove
-          relative agli  eventi di sicurezza delle informazioni.
+        description: L'organizzazione deve stabilire e implementare procedure per
+          l'identificazione, la raccolta, l'acquisizione e la conservazione di prove
+          relative agli eventi di sicurezza delle informazioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.29
     ref_id: A.5.29
     name: Information security during disruption
@@ -1157,9 +1157,9 @@ objects:
           \ las operaciones. Las medidas incluyen planes de contingencia, sistemas\
           \ de respaldo y mecanismos de conmutaci\xF3n por error."
       it:
-        name: Sicurezza delle informazioni  durante la distruzione
-        description: L'organizzazione deve pianificare come mantenere la  sicurezza
-          delle informazioni ad un livello appropriato  durante la distruzione.
+        name: Sicurezza delle informazioni durante la distruzione
+        description: L'organizzazione deve pianificare come mantenere la sicurezza
+          delle informazioni ad un livello appropriato durante la distruzione.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.30
     ref_id: A.5.30
     name: ICT readiness for business continuity
@@ -1195,9 +1195,9 @@ objects:
           \ las interrupciones. Las medidas incluyen probar planes de recuperaci\xF3\
           n, sistemas redundantes y sitios de recuperaci\xF3n ante desastres."
       it:
-        name: "Prontezza ICT per la  continuit\xE0 aziendale"
-        description: "La prontezza ICT deve essere pianificata, implementata,  mantenuta\
-          \ e testata in base agli obiettivi di continuit\xE0  aziendale e ai requisiti\
+        name: "Prontezza ICT per la continuit\xE0 aziendale"
+        description: "La prontezza ICT deve essere pianificata, implementata, mantenuta\
+          \ e testata in base agli obiettivi di continuit\xE0 aziendale e ai requisiti\
           \ di continuit\xE0 ICT."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.31
     ref_id: A.5.31
@@ -1232,9 +1232,9 @@ objects:
           n. Las medidas incluyen revisiones de pol\xEDticas, auditor\xEDas y documentaci\xF3\
           n de evidencias."
       it:
-        name: Requisiti legali, statutari,  regolamentari e contrattuali
-        description: I requisiti legali, statutari, regolamentari e contrattuali  rilevanti
-          per la sicurezza delle informazioni devono  essere identificati, documentati
+        name: Requisiti legali, statutari, regolamentari e contrattuali
+        description: I requisiti legali, statutari, regolamentari e contrattuali rilevanti
+          per la sicurezza delle informazioni devono essere identificati, documentati
           e mantenuti aggiornati.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.32
     ref_id: A.5.32
@@ -1269,9 +1269,9 @@ objects:
           n adecuadas. Las medidas incluyen restricciones de acceso, cifrado y acuerdos\
           \ legales."
       it:
-        name: "Diritti di propriet\xE0  intellettuale"
-        description: "L'organizzazione deve implementare procedure  appropriate per\
-          \ proteggere i diritti di propriet\xE0  intellettuale."
+        name: "Diritti di propriet\xE0 intellettuale"
+        description: "L'organizzazione deve implementare procedure appropriate per\
+          \ proteggere i diritti di propriet\xE0 intellettuale."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.33
     ref_id: A.5.33
     name: Protection of records
@@ -1308,8 +1308,8 @@ objects:
           \ controles de acceso."
       it:
         name: Protezione dei documenti
-        description: I documenti devono essere protetti da perdita,  distruzione,
-          falsificazione, accesso non autorizzato e  divulgazione non autorizzata.
+        description: I documenti devono essere protetti da perdita, distruzione, falsificazione,
+          accesso non autorizzato e divulgazione non autorizzata.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.34
     ref_id: A.5.34
     name: Privacy and protection of PII
@@ -1344,10 +1344,10 @@ objects:
           \ incluyen la anonimizaci\xF3n, el cifrado y el cumplimiento de las leyes\
           \ de privacidad."
       it:
-        name: Privacy e protezione delle  informazioni personali  identificabili (PII)
-        description: "L'organizzazione deve identificare e soddisfare i  requisiti\
-          \ relativi alla tutela della privacy e alla protezione  delle PII in conformit\xE0\
-          \ alle leggi, ai regolamenti  applicabili e ai requisiti contrattuali."
+        name: Privacy e protezione delle informazioni personali identificabili (PII)
+        description: "L'organizzazione deve identificare e soddisfare i requisiti\
+          \ relativi alla tutela della privacy e alla protezione delle PII in conformit\xE0\
+          \ alle leggi, ai regolamenti applicabili e ai requisiti contrattuali."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.35
     ref_id: A.5.35
     name: Independent review of information security
@@ -1381,11 +1381,11 @@ objects:
           \ incluyen auditor\xEDas externas, evaluaciones de riesgos y acciones de\
           \ seguimiento."
       it:
-        name: Revisione indipendente della  sicurezza delle informazioni
-        description: L'approccio dell'organizzazione alla gestione della  sicurezza
-          delle informazioni e la sua implementazione,  compresi persone, processi
-          e tecnologie, devono essere  periodicamente riesaminati in modo indipendente
-          a  intervalli pianificati o in caso di cambiamenti  significativi.
+        name: Revisione indipendente della sicurezza delle informazioni
+        description: L'approccio dell'organizzazione alla gestione della sicurezza
+          delle informazioni e la sua implementazione, compresi persone, processi
+          e tecnologie, devono essere periodicamente riesaminati in modo indipendente
+          a intervalli pianificati o in caso di cambiamenti significativi.
   - urn: urn:intuitem:risk:function:doc-pol:a.5.36
     ref_id: A.5.36
     name: Compliance with policies, rules and standards for information security
@@ -1423,11 +1423,11 @@ objects:
           \ incluyen capacitaci\xF3n peri\xF3dica, revisiones de pol\xEDticas y mecanismos\
           \ de aplicaci\xF3n."
       it:
-        name: "Conformit\xE0 alle politiche,  regole e standard per la  sicurezza\
-          \ delle informazioni"
-        description: "La conformit\xE0 alla politica di sicurezza delle  informazioni\
-          \ dell'organizzazione, alle politiche  specifiche per argomento, alle regole\
-          \ e agli standard  deve essere regolarmente riesaminata."
+        name: "Conformit\xE0 alle politiche, regole e standard per la sicurezza delle\
+          \ informazioni"
+        description: "La conformit\xE0 alla politica di sicurezza delle informazioni\
+          \ dell'organizzazione, alle politiche specifiche per argomento, alle regole\
+          \ e agli standard deve essere regolarmente riesaminata."
   - urn: urn:intuitem:risk:function:doc-pol:a.5.37
     ref_id: A.5.37
     name: Documented operating procedures
@@ -1461,9 +1461,9 @@ objects:
           \ Las medidas incluyen la documentaci\xF3n del proceso, el control de versiones\
           \ y la accesibilidad."
       it:
-        name: Procedure operative  documentate
-        description: Le procedure operative per le strutture di elaborazione  delle
-          informazioni devono essere documentate e messe  a disposizione del personale
+        name: Procedure operative documentate
+        description: Le procedure operative per le strutture di elaborazione delle
+          informazioni devono essere documentate e messe a disposizione del personale
           che ne ha bisogno.
   - urn: urn:intuitem:risk:function:doc-pol:a.6.1
     ref_id: A.6.1
@@ -1503,12 +1503,12 @@ objects:
           \ de seguridad."
       it:
         name: Screening
-        description: Verifiche di verifica del background su tutti i candidati  per
-          diventare personale devono essere effettuate  prima di entrare a far parte
-          dell'organizzazione e in  modo continuativo, prendendo in considerazione
-          le  leggi, i regolamenti, l'etica applicabile e  proporzionalmente alle
-          esigenze aziendali, alla  classificazione delle informazioni da accedere
-          e ai rischi  percepiti.
+        description: Verifiche di verifica del background su tutti i candidati per
+          diventare personale devono essere effettuate prima di entrare a far parte
+          dell'organizzazione e in modo continuativo, prendendo in considerazione
+          le leggi, i regolamenti, l'etica applicabile e proporzionalmente alle esigenze
+          aziendali, alla classificazione delle informazioni da accedere e ai rischi
+          percepiti.
   - urn: urn:intuitem:risk:function:doc-pol:a.6.2
     ref_id: A.6.2
     name: Terms and conditions of employment
@@ -1543,9 +1543,9 @@ objects:
           n. Las medidas incluyen cl\xE1usulas expl\xEDcitas sobre confidencialidad,\
           \ cumplimiento de pol\xEDticas y consecuencias por infracciones."
       it:
-        name: Termini e condizioni di  impiego
+        name: Termini e condizioni di impiego
         description: "I contratti di lavoro devono specificare le responsabilit\xE0\
-          \  del personale e dell'organizzazione per la sicurezza  delle informazioni."
+          \ del personale e dell'organizzazione per la sicurezza delle informazioni."
   - urn: urn:intuitem:risk:function:doc-pol:a.6.3
     ref_id: A.6.3
     name: Information security awareness, education and training
@@ -1583,12 +1583,12 @@ objects:
           n. Las medidas incluyen sesiones de capacitaci\xF3n programadas, programas\
           \ de aprendizaje electr\xF3nico y ejercicios simulados de phishing."
       it:
-        name: Consapevolezza, formazione  ed educazione sulla  sicurezza delle informazioni
-        description: Il personale dell'organizzazione e le parti interessate  pertinenti
-          devono ricevere adeguate consapevolezza,  formazione ed educazione sulla
-          sicurezza delle  informazioni e aggiornamenti regolari della politica di  sicurezza
-          delle informazioni dell'organizzazione, delle  politiche specifiche per
-          argomento e delle procedure, in  relazione alle loro mansioni.
+        name: Consapevolezza, formazione ed educazione sulla sicurezza delle informazioni
+        description: Il personale dell'organizzazione e le parti interessate pertinenti
+          devono ricevere adeguate consapevolezza, formazione ed educazione sulla
+          sicurezza delle informazioni e aggiornamenti regolari della politica di
+          sicurezza delle informazioni dell'organizzazione, delle politiche specifiche
+          per argomento e delle procedure, in relazione alle loro mansioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.6.4
     ref_id: A.6.4
     name: Disciplinary process
@@ -1625,10 +1625,9 @@ objects:
           \ y una aplicaci\xF3n coherente para mantener la rendici\xF3n de cuentas."
       it:
         name: Processo disciplinare
-        description: Un processo disciplinare deve essere formalizzato e  comunicato
-          per intraprendere azioni contro il  personale e altre parti interessate
-          pertinenti che hanno  commesso una violazione della politica di sicurezza  delle
-          informazioni.
+        description: Un processo disciplinare deve essere formalizzato e comunicato
+          per intraprendere azioni contro il personale e altre parti interessate pertinenti
+          che hanno commesso una violazione della politica di sicurezza delle informazioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.6.5
     ref_id: A.6.5
     name: Responsibilities after termination or change of employment
@@ -1669,11 +1668,11 @@ objects:
           n de los derechos de acceso, la recopilaci\xF3n de activos de la organizaci\xF3\
           n y la realizaci\xF3n de entrevistas de salida."
       it:
-        name: "Responsabilit\xE0 dopo la  cessazione o il cambio di  impiego"
+        name: "Responsabilit\xE0 dopo la cessazione o il cambio di impiego"
         description: "Le responsabilit\xE0 e i doveri relativi alla sicurezza delle\
-          \  informazioni che rimangono validi dopo la cessazione o  il cambio di\
-          \ impiego devono essere definiti, attuati e  comunicati al personale e alle\
-          \ altre parti interessate  pertinenti."
+          \ informazioni che rimangono validi dopo la cessazione o il cambio di impiego\
+          \ devono essere definiti, attuati e comunicati al personale e alle altre\
+          \ parti interessate pertinenti."
   - urn: urn:intuitem:risk:function:doc-pol:a.6.6
     ref_id: A.6.6
     name: Confidentiality or non-disclosure agreements
@@ -1711,11 +1710,11 @@ objects:
           \ firmados al comienzo del empleo, recordatorios peri\xF3dicos y la aplicaci\xF3\
           n de acciones legales en caso de violaciones."
       it:
-        name: Accordi di riservatezza o non  divulgazione
-        description: Gli accordi di riservatezza o non divulgazione che  riflettono
-          le esigenze dell'organizzazione per la  protezione delle informazioni devono
-          essere  identificati, documentati, regolarmente riesaminati e  firmati dal
-          personale e dalle altre parti interessate  pertinenti.
+        name: Accordi di riservatezza o non divulgazione
+        description: Gli accordi di riservatezza o non divulgazione che riflettono
+          le esigenze dell'organizzazione per la protezione delle informazioni devono
+          essere identificati, documentati, regolarmente riesaminati e firmati dal
+          personale e dalle altre parti interessate pertinenti.
   - urn: urn:intuitem:risk:function:doc-pol:a.6.7
     ref_id: A.6.7
     name: Remote working
@@ -1752,9 +1751,9 @@ objects:
           \ VPN y pol\xEDticas para el manejo de datos confidenciales de forma remota."
       it:
         name: Lavoro remoto
-        description: Devono essere implementate misure di sicurezza  quando il personale
-          lavora in remoto per proteggere le  informazioni a cui si accede, elabora
-          o memorizza al di  fuori dei locali dell'organizzazione.
+        description: Devono essere implementate misure di sicurezza quando il personale
+          lavora in remoto per proteggere le informazioni a cui si accede, elabora
+          o memorizza al di fuori dei locali dell'organizzazione.
   - urn: urn:intuitem:risk:function:doc-pol:a.6.8
     ref_id: A.6.8
     name: Information security event reporting
@@ -1793,10 +1792,10 @@ objects:
           n y procedimientos de seguimiento para investigar y abordar los eventos\
           \ denunciados."
       it:
-        name: Segnalazione degli eventi  relativi alla sicurezza delle  informazioni
-        description: "L'organizzazione deve fornire un meccanismo affinch\xE9  il\
-          \ personale possa segnalare in modo tempestivo eventi  di sicurezza delle\
-          \ informazioni osservati o sospettati  attraverso canali appropriati."
+        name: Segnalazione degli eventi relativi alla sicurezza delle informazioni
+        description: "L'organizzazione deve fornire un meccanismo affinch\xE9 il personale\
+          \ possa segnalare in modo tempestivo eventi di sicurezza delle informazioni\
+          \ osservati o sospettati attraverso canali appropriati."
   - urn: urn:intuitem:risk:function:doc-pol:a.7.1
     ref_id: A.7.1
     name: Physical security perimeters
@@ -1835,8 +1834,8 @@ objects:
           \ que solo las personas autorizadas puedan ingresar."
       it:
         name: Perimetri di sicurezza fisica
-        description: I perimetri di sicurezza devono essere definiti e  utilizzati
-          per proteggere aree che contengono  informazioni e altri asset associati.
+        description: I perimetri di sicurezza devono essere definiti e utilizzati
+          per proteggere aree che contengono informazioni e altri asset associati.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.2
     ref_id: A.7.2
     name: Physical entry
@@ -1872,7 +1871,7 @@ objects:
           \ registros de visitantes."
       it:
         name: Accesso fisico
-        description: Le aree sicure devono essere protette da controlli di  accesso
+        description: Le aree sicure devono essere protette da controlli di accesso
           appropriati e punti di accesso.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.3
     ref_id: A.7.3
@@ -1908,8 +1907,8 @@ objects:
           \ medidas incluyen puertas cerradas, \xE1reas restringidas y sistemas de\
           \ vigilancia."
       it:
-        name: Sicurezza degli uffici, delle  stanze e delle strutture
-        description: La sicurezza fisica degli uffici, delle stanze e delle  strutture
+        name: Sicurezza degli uffici, delle stanze e delle strutture
+        description: La sicurezza fisica degli uffici, delle stanze e delle strutture
           deve essere progettata e implementata.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.4
     ref_id: A.7.4
@@ -1943,8 +1942,8 @@ objects:
           \ incluyen sistemas de CCTV, detectores de movimiento y alertas en tiempo\
           \ real."
       it:
-        name: Monitoraggio della sicurezza  fisica
-        description: I locali devono essere monitorati continuamente per  l'accesso
+        name: Monitoraggio della sicurezza fisica
+        description: I locali devono essere monitorati continuamente per l'accesso
           fisico non autorizzato.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.5
     ref_id: A.7.5
@@ -1979,10 +1978,10 @@ objects:
           n de incendios, controles de temperatura y barreras de prevenci\xF3n de\
           \ inundaciones."
       it:
-        name: Protezione contro minacce  fisiche e ambientali
-        description: La protezione contro minacce fisiche ed ambientali,  come disastri
-          naturali o altre minacce fisiche  intenzionali o non intenzionali all'infrastruttura,
-          deve  essere progettata ed implementata.
+        name: Protezione contro minacce fisiche e ambientali
+        description: La protezione contro minacce fisiche ed ambientali, come disastri
+          naturali o altre minacce fisiche intenzionali o non intenzionali all'infrastruttura,
+          deve essere progettata ed implementata.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.6
     ref_id: A.7.6
     name: Working In secure areas
@@ -2017,7 +2016,7 @@ objects:
           \ de control de acceso, escolta de visitantes y monitoreo de actividad."
       it:
         name: Lavoro in aree sicure
-        description: Misure di sicurezza per lavorare in aree sicure devono  essere
+        description: Misure di sicurezza per lavorare in aree sicure devono essere
           progettate ed implementate.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.7
     ref_id: A.7.7
@@ -2055,10 +2054,10 @@ objects:
           \ pantalla claras. Las medidas incluyen el bloqueo de documentos confidenciales\
           \ y el bloqueo autom\xE1tico de pantallas cuando no est\xE1n en uso."
       it:
-        name: Area di lavoro e schermo  puliti
-        description: Norme per la pulizia della scrivania per documenti e  supporti
-          rimovibili e regole per lo schermo dei sistemi  di elaborazione delle informazioni
-          devono essere  definite e applicate in modo appropriato.
+        name: Area di lavoro e schermo puliti
+        description: Norme per la pulizia della scrivania per documenti e supporti
+          rimovibili e regole per lo schermo dei sistemi di elaborazione delle informazioni
+          devono essere definite e applicate in modo appropriato.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.8
     ref_id: A.7.8
     name: Equipment siting and protection
@@ -2092,8 +2091,8 @@ objects:
           \ para evitar el acceso no autorizado o el da\xF1o. Las medidas incluyen\
           \ montaje seguro, gabinetes cerrados con llave y \xE1reas de acceso restringido."
       it:
-        name: Posizionamento e  protezione dell'attrezzatura
-        description: L'attrezzatura deve essere posizionata in modo sicuro e  protetta.
+        name: Posizionamento e protezione dell'attrezzatura
+        description: L'attrezzatura deve essere posizionata in modo sicuro e protetta.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.9
     ref_id: A.7.9
     name: Security of assets off-premises
@@ -2161,10 +2160,10 @@ objects:
           \ seguro, cifrado y restricciones de acceso."
       it:
         name: Supporti di memorizzazione
-        description: "I supporti di memorizzazione devono essere gestiti  durante\
-          \ il loro ciclo di vita di acquisizione, utilizzo,  trasporto e smaltimento\
-          \ in conformit\xE0 con lo schema di  classificazione e i requisiti di gestione\
-          \  dell'organizzazione."
+        description: "I supporti di memorizzazione devono essere gestiti durante il\
+          \ loro ciclo di vita di acquisizione, utilizzo, trasporto e smaltimento\
+          \ in conformit\xE0 con lo schema di classificazione e i requisiti di gestione\
+          \ dell'organizzazione."
   - urn: urn:intuitem:risk:function:doc-pol:a.7.11
     ref_id: A.7.11
     name: Supporting utilities
@@ -2200,9 +2199,9 @@ objects:
           \ y seguridad f\xEDsica."
       it:
         name: Servizi di supporto
-        description: Le strutture di elaborazione delle informazioni devono  essere
-          protette da interruzioni di corrente e da altre  interruzioni causate da
-          malfunzionamenti nei servizi di  supporto.
+        description: Le strutture di elaborazione delle informazioni devono essere
+          protette da interruzioni di corrente e da altre interruzioni causate da
+          malfunzionamenti nei servizi di supporto.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.12
     ref_id: A.7.12
     name: Cabling security
@@ -2235,8 +2234,8 @@ objects:
           \ conductos de protecci\xF3n, etiquetado adecuado y enrutamiento seguro."
       it:
         name: Sicurezza dei cavi
-        description: I cavi che trasportano alimentazione, dati o servizi di  informazione
-          di supporto devono essere protetti da  intercettazioni, interferenze o danneggiamenti.
+        description: I cavi che trasportano alimentazione, dati o servizi di informazione
+          di supporto devono essere protetti da intercettazioni, interferenze o danneggiamenti.
   - urn: urn:intuitem:risk:function:doc-pol:a.7.13
     ref_id: A.7.13
     name: Equipment maintenance
@@ -2271,9 +2270,9 @@ objects:
           \ su correcto funcionamiento y evitar fallos. Las medidas incluyen servicio\
           \ regular, pr\xE1cticas de mantenimiento seguras y acceso de personal autorizado."
       it:
-        name: Manutenzione  dell'attrezzatura
-        description: "L'attrezzatura deve essere mantenuta correttamente  per garantire\
-          \ la disponibilit\xE0, l'integrit\xE0 e la riservatezza  delle informazioni."
+        name: Manutenzione dell'attrezzatura
+        description: "L'attrezzatura deve essere mantenuta correttamente per garantire\
+          \ la disponibilit\xE0, l'integrit\xE0 e la riservatezza delle informazioni."
   - urn: urn:intuitem:risk:function:doc-pol:a.7.14
     ref_id: A.7.14
     name: Secure disposal or re-use of equipment
@@ -2309,11 +2308,11 @@ objects:
           \ la desinfecci\xF3n de datos, la destrucci\xF3n f\xEDsica y los procesos\
           \ de eliminaci\xF3n certificados."
       it:
-        name: Smaltimento sicuro o  riutilizzo dell'attrezzatura
-        description: Gli elementi di attrezzatura contenenti supporti di  memorizzazione
-          devono essere verificati per garantire  che tutti i dati sensibili e i software
-          con licenza siano  stati rimossi o sovrascritti in modo sicuro prima dello  smaltimento
-          o riutilizzo.
+        name: Smaltimento sicuro o riutilizzo dell'attrezzatura
+        description: Gli elementi di attrezzatura contenenti supporti di memorizzazione
+          devono essere verificati per garantire che tutti i dati sensibili e i software
+          con licenza siano stati rimossi o sovrascritti in modo sicuro prima dello
+          smaltimento o riutilizzo.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.1
     ref_id: A.8.1
     name: User end point devices
@@ -2350,9 +2349,9 @@ objects:
           \ la detecci\xF3n de puntos de conexi\xF3n, el cifrado y las configuraciones\
           \ seguras para minimizar los riesgos."
       it:
-        name: Dispositivi terminali  dell'utente
-        description: Le informazioni memorizzate su, elaborate da o  accessibili tramite
-          dispositivi terminali dell'utente  devono essere protette.
+        name: Dispositivi terminali dell'utente
+        description: Le informazioni memorizzate su, elaborate da o accessibili tramite
+          dispositivi terminali dell'utente devono essere protette.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.2
     ref_id: A.8.2
     name: Privileged access rights
@@ -2392,7 +2391,7 @@ objects:
           \ cuentas."
       it:
         name: Diritti di accesso privilegiati
-        description: L'assegnazione e l'uso dei diritti di accesso privilegiati  devono
+        description: L'assegnazione e l'uso dei diritti di accesso privilegiati devono
           essere limitati e gestiti.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.3
     ref_id: A.8.3
@@ -2428,9 +2427,9 @@ objects:
           \ la autenticaci\xF3n de usuarios, los permisos basados en roles y las revisiones\
           \ peri\xF3dicas del acceso."
       it:
-        name: Restrizione dell'accesso alle  informazioni
-        description: "L'accesso alle informazioni e ad altri asset associati  deve\
-          \ essere limitato in conformit\xE0 con la politica  specifica per argomento\
+        name: Restrizione dell'accesso alle informazioni
+        description: "L'accesso alle informazioni e ad altri asset associati deve\
+          \ essere limitato in conformit\xE0 con la politica specifica per argomento\
           \ sul controllo degli accessi."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.4
     ref_id: A.8.4
@@ -2467,8 +2466,8 @@ objects:
           \ para desarrolladores."
       it:
         name: Accesso al codice sorgente
-        description: L'accesso in lettura e scrittura al codice sorgente, agli  strumenti
-          di sviluppo e alle librerie software deve  essere gestito in modo appropriato.
+        description: L'accesso in lettura e scrittura al codice sorgente, agli strumenti
+          di sviluppo e alle librerie software deve essere gestito in modo appropriato.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.5
     ref_id: A.8.5
     name: Secure authentication
@@ -2501,9 +2500,9 @@ objects:
           \ los usuarios y evitar el acceso no autorizado."
       it:
         name: Autenticazione sicura
-        description: Tecnologie e procedure di autenticazione sicura devono  essere
-          implementate in base alle restrizioni di accesso  alle informazioni e alla
-          politica specifica per argomento  sul controllo degli accessi.
+        description: Tecnologie e procedure di autenticazione sicura devono essere
+          implementate in base alle restrizioni di accesso alle informazioni e alla
+          politica specifica per argomento sul controllo degli accessi.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.6
     ref_id: A.8.6
     name: Capacity management
@@ -2539,7 +2538,7 @@ objects:
           n de las necesidades futuras."
       it:
         name: "Gestione delle capacit\xE0"
-        description: "L'uso delle risorse deve essere monitorato e adattato in  linea\
+        description: "L'uso delle risorse deve essere monitorato e adattato in linea\
           \ con i requisiti di capacit\xE0 attuali e previsti."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.7
     ref_id: A.8.7
@@ -2572,8 +2571,8 @@ objects:
           \ los sistemas contra malware y ataques maliciosos."
       it:
         name: Protezione contro malware
-        description: La protezione contro malware deve essere  implementata e supportata
-          da un'adeguata  consapevolezza degli utenti.
+        description: La protezione contro malware deve essere implementata e supportata
+          da un'adeguata consapevolezza degli utenti.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.8
     ref_id: A.8.8
     name: Management of technical vulnerabilities
@@ -2606,10 +2605,10 @@ objects:
           \ medidas incluyen el an\xE1lisis de vulnerabilidades y la gesti\xF3n de\
           \ parches."
       it:
-        name: "Gestione delle vulnerabilit\xE0  tecniche"
-        description: "Deve essere ottenuta informazione sulle vulnerabilit\xE0  tecniche\
-          \ dei sistemi informativi in uso, valutata  l'esposizione dell'organizzazione\
-          \ a tali vulnerabilit\xE0 e  adottate misure appropriate."
+        name: "Gestione delle vulnerabilit\xE0 tecniche"
+        description: "Deve essere ottenuta informazione sulle vulnerabilit\xE0 tecniche\
+          \ dei sistemi informativi in uso, valutata l'esposizione dell'organizzazione\
+          \ a tali vulnerabilit\xE0 e adottate misure appropriate."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.9
     ref_id: A.8.9
     name: Configuration management
@@ -2638,10 +2637,10 @@ objects:
           \ del sistema para mantener la configuraci\xF3n de seguridad y evitar cambios\
           \ no autorizados."
       it:
-        name: Gestione della  configurazione
-        description: Le configurazioni, inclusa la configurazione della  sicurezza,
-          dell'hardware, del software, dei servizi e delle  reti, devono essere stabilite,
-          documentate,  implementate, monitorate e revisionate.
+        name: Gestione della configurazione
+        description: Le configurazioni, inclusa la configurazione della sicurezza,
+          dell'hardware, del software, dei servizi e delle reti, devono essere stabilite,
+          documentate, implementate, monitorate e revisionate.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.10
     ref_id: A.8.10
     name: Information deletion
@@ -2672,10 +2671,10 @@ objects:
           \ elimine de forma segura cuando ya no sea necesaria para evitar la recuperaci\xF3\
           n o exposici\xF3n no autorizada."
       it:
-        name: Eliminazione delle  informazioni
-        description: "Le informazioni memorizzate nei sistemi informativi,  nei dispositivi\
-          \ o in qualsiasi altro supporto di  memorizzazione devono essere eliminate\
-          \ quando non  sono pi\xF9 necessarie."
+        name: Eliminazione delle informazioni
+        description: "Le informazioni memorizzate nei sistemi informativi, nei dispositivi\
+          \ o in qualsiasi altro supporto di memorizzazione devono essere eliminate\
+          \ quando non sono pi\xF9 necessarie."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.11
     ref_id: A.8.11
     name: Data masking
@@ -2706,10 +2705,10 @@ objects:
           \ de enmascaramiento de datos para ocultar los datos de usuarios no autorizados."
       it:
         name: Mascheramento dei dati
-        description: "Il mascheramento dei dati deve essere utilizzato in  conformit\xE0\
-          \ con la politica specifica per argomento  sull'accesso e altre politiche\
-          \ specifiche correlate, e ai  requisiti aziendali, considerando la legislazione\
-          \  applicabile."
+        description: "Il mascheramento dei dati deve essere utilizzato in conformit\xE0\
+          \ con la politica specifica per argomento sull'accesso e altre politiche\
+          \ specifiche correlate, e ai requisiti aziendali, considerando la legislazione\
+          \ applicabile."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.12
     ref_id: A.8.12
     name: Data leakage prevention
@@ -2739,10 +2738,10 @@ objects:
           n accidental de datos confidenciales a trav\xE9s de correo electr\xF3nico,\
           \ medios extra\xEDbles u otros canales."
       it:
-        name: Prevenzione della fuga di  dati
-        description: Misure di prevenzione della fuga di dati devono essere  applicate
-          a sistemi, reti e ad altri dispositivi che  elaborano, memorizzano o trasmettono
-          informazioni  sensibili.
+        name: Prevenzione della fuga di dati
+        description: Misure di prevenzione della fuga di dati devono essere applicate
+          a sistemi, reti e ad altri dispositivi che elaborano, memorizzano o trasmettono
+          informazioni sensibili.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.13
     ref_id: A.8.13
     name: Information backup
@@ -2773,9 +2772,9 @@ objects:
           \ incidentes o desastres."
       it:
         name: Backup delle informazioni
-        description: "Copie di backup di informazioni, software e sistemi  devono\
-          \ essere mantenute e regolarmente testate in  conformit\xE0 con la politica\
-          \ specifica per argomento sul  backup concordata."
+        description: "Copie di backup di informazioni, software e sistemi devono essere\
+          \ mantenute e regolarmente testate in conformit\xE0 con la politica specifica\
+          \ per argomento sul backup concordata."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.14
     ref_id: A.8.14
     name: Redundancy of information processing facilities
@@ -2806,9 +2805,9 @@ objects:
           \ en las instalaciones de procesamiento para mantener la disponibilidad\
           \ y las operaciones durante fallas o emergencias del sistema."
       it:
-        name: Ridondanza delle strutture  di elaborazione delle  informazioni
-        description: "Le strutture di elaborazione delle informazioni devono  essere\
-          \ implementate con una ridondanza sufficiente  per soddisfare i requisiti\
+        name: Ridondanza delle strutture di elaborazione delle informazioni
+        description: "Le strutture di elaborazione delle informazioni devono essere\
+          \ implementate con una ridondanza sufficiente per soddisfare i requisiti\
           \ di disponibilit\xE0."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.15
     ref_id: A.8.15
@@ -2840,7 +2839,7 @@ objects:
       it:
         name: Registrazione
         description: "I registri che registrano attivit\xE0, eccezioni, guasti e altri\
-          \  eventi rilevanti devono essere prodotti, memorizzati,  protetti ed analizzati."
+          \ eventi rilevanti devono essere prodotti, memorizzati, protetti ed analizzati."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.16
     ref_id: A.8.16
     name: Monitoring activities
@@ -2869,9 +2868,9 @@ objects:
           \ del sistema para detectar, responder y mitigar las amenazas de seguridad."
       it:
         name: "Monitoraggio delle attivit\xE0"
-        description: Reti, sistemi e applicazioni devono essere monitorati  per comportamenti
-          anomali e devono essere adottate  azioni appropriate per valutare potenziali
-          incidenti di  sicurezza delle informazioni.
+        description: Reti, sistemi e applicazioni devono essere monitorati per comportamenti
+          anomali e devono essere adottate azioni appropriate per valutare potenziali
+          incidenti di sicurezza delle informazioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.17
     ref_id: A.8.17
     name: Clock synchronization
@@ -2900,9 +2899,9 @@ objects:
           \ sincronizados para mantener marcas de tiempo precisas y coherentes para\
           \ los registros y otros procesos cr\xEDticos."
       it:
-        name: Sincronizzazione  dell'orologio
-        description: Gli orologi dei sistemi di elaborazione delle  informazioni utilizzati
-          dall'organizzazione devono  essere sincronizzati con fonti temporali approvate.
+        name: Sincronizzazione dell'orologio
+        description: Gli orologi dei sistemi di elaborazione delle informazioni utilizzati
+          dall'organizzazione devono essere sincronizzati con fonti temporali approvate.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.18
     ref_id: A.8.18
     name: Use of privileged utility programs
@@ -2930,9 +2929,9 @@ objects:
         description: Este control restringe y supervisa el uso de programas de utilidad
           con privilegios para evitar el uso indebido y las acciones no autorizadas.
       it:
-        name: Utilizzo di programmi utility  privilegiati
-        description: L'uso di programmi utility che possono essere in grado  di aggirare
-          i controlli di sistema e delle applicazioni  deve essere limitato e strettamente
+        name: Utilizzo di programmi utility privilegiati
+        description: L'uso di programmi utility che possono essere in grado di aggirare
+          i controlli di sistema e delle applicazioni deve essere limitato e strettamente
           controllato.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.19
     ref_id: A.8.19
@@ -2963,9 +2962,9 @@ objects:
           \ los sistemas operativos se gestione de forma segura para evitar vulnerabilidades\
           \ o cambios no autorizados."
       it:
-        name: Installazione di software sui  sistemi operativi
-        description: Procedure e misure devono essere implementate per  gestire in
-          modo sicuro l'installazione di software sui  sistemi operativi.
+        name: Installazione di software sui sistemi operativi
+        description: Procedure e misure devono essere implementate per gestire in
+          modo sicuro l'installazione di software sui sistemi operativi.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.20
     ref_id: A.8.20
     name: Networks security
@@ -2998,8 +2997,8 @@ objects:
           \ para proteger contra accesos y ataques no autorizados."
       it:
         name: Sicurezza delle reti
-        description: Le reti e i dispositivi di rete devono essere protetti,  gestiti
-          e controllati per proteggere le informazioni nei  sistemi.
+        description: Le reti e i dispositivi di rete devono essere protetti, gestiti
+          e controllati per proteggere le informazioni nei sistemi.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.21
     ref_id: A.8.21
     name: Security of network services
@@ -3028,10 +3027,10 @@ objects:
           \ para mantener la confidencialidad, la integridad y la disponibilidad durante\
           \ el uso."
       it:
-        name: Sicurezza dei servizi di rete  Controllo
-        description: I meccanismi di sicurezza, i livelli di servizio e i requisiti  di
-          servizio dei servizi di rete devono essere identificati,  implementati e
-          monitorati.
+        name: Sicurezza dei servizi di rete Controllo
+        description: I meccanismi di sicurezza, i livelli di servizio e i requisiti
+          di servizio dei servizi di rete devono essere identificati, implementati
+          e monitorati.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.22
     ref_id: A.8.22
     name: Segregation of networks
@@ -3060,7 +3059,7 @@ objects:
           \ la propagaci\xF3n de amenazas y minimizar el impacto de posibles infracciones."
       it:
         name: Segregazione delle reti
-        description: Gruppi di servizi informativi, utenti e sistemi informativi  devono
+        description: Gruppi di servizi informativi, utenti e sistemi informativi devono
           essere segregati nelle reti dell'organizzazione.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.23
     ref_id: A.8.23
@@ -3090,7 +3089,7 @@ objects:
           \ el acceso a contenido no autorizado o da\xF1ino a trav\xE9s de Internet."
       it:
         name: Filtraggio web
-        description: L'accesso ai siti web esterni deve essere gestito per  ridurre
+        description: L'accesso ai siti web esterni deve essere gestito per ridurre
           l'esposizione a contenuti dannosi.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.24
     ref_id: A.8.24
@@ -3121,8 +3120,8 @@ objects:
           \ datos."
       it:
         name: Utilizzo della crittografia
-        description: Devono essere definite e implementate regole per  l'efficace
-          utilizzo della crittografia, inclusa la gestione  delle chiavi crittografiche.
+        description: Devono essere definite e implementate regole per l'efficace utilizzo
+          della crittografia, inclusa la gestione delle chiavi crittografiche.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.25
     ref_id: A.8.25
     name: Secure development life cycle
@@ -3152,8 +3151,8 @@ objects:
           de vida del desarrollo para garantizar que los sistemas y las aplicaciones
           se construyan de forma segura.
       it:
-        name: Ciclo di vita dello sviluppo  sicuro
-        description: Devono essere stabiliti e applicati principi per lo  sviluppo
+        name: Ciclo di vita dello sviluppo sicuro
+        description: Devono essere stabiliti e applicati principi per lo sviluppo
           sicuro di software e sistemi.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.26
     ref_id: A.8.26
@@ -3180,9 +3179,9 @@ objects:
         description: Este control define y aplica los requisitos de seguridad de las
           aplicaciones para protegerse contra vulnerabilidades.
       it:
-        name: Requisiti di sicurezza delle  applicazioni
-        description: I requisiti di sicurezza delle informazioni devono essere  identificati,
-          specificati e approvati durante lo sviluppo o  l'acquisizione di applicazioni.
+        name: Requisiti di sicurezza delle applicazioni
+        description: I requisiti di sicurezza delle informazioni devono essere identificati,
+          specificati e approvati durante lo sviluppo o l'acquisizione di applicazioni.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.27
     ref_id: A.8.27
     name: Secure system architecture and engineering principles
@@ -3211,9 +3210,9 @@ objects:
         description: "Este control garantiza que se adopten los principios de dise\xF1\
           o seguro durante el desarrollo de las arquitecturas de sistemas."
       it:
-        name: Architettura di sistema  sicuro e principi di  ingegneria
-        description: "Devono essere stabiliti, documentati, mantenuti e  applicati\
-          \ principi per l'ingegneria di sistemi sicuri a tutte  le attivit\xE0 di\
+        name: Architettura di sistema sicuro e principi di ingegneria
+        description: "Devono essere stabiliti, documentati, mantenuti e applicati\
+          \ principi per l'ingegneria di sistemi sicuri a tutte le attivit\xE0 di\
           \ sviluppo di sistemi informativi."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.28
     ref_id: A.8.28
@@ -3241,7 +3240,7 @@ objects:
           \ para minimizar las vulnerabilidades en el software desarrollado."
       it:
         name: Codifica sicura
-        description: Principi di codifica sicura devono essere applicati allo  sviluppo
+        description: Principi di codifica sicura devono essere applicati allo sviluppo
           del software.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.29
     ref_id: A.8.29
@@ -3271,8 +3270,8 @@ objects:
           \ a cabo durante las fases de desarrollo y aceptaci\xF3n para identificar\
           \ los puntos d\xE9biles."
       it:
-        name: Test di sicurezza nello  sviluppo e nell'accettazione
-        description: I processi di test di sicurezza devono essere definiti e  implementati
+        name: Test di sicurezza nello sviluppo e nell'accettazione
+        description: I processi di test di sicurezza devono essere definiti e implementati
           nel ciclo di vita dello sviluppo.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.30
     ref_id: A.8.30
@@ -3302,7 +3301,7 @@ objects:
           de forma eficaz cuando el desarrollo se externaliza a proveedores externos.
       it:
         name: Sviluppo esterno
-        description: "L'organizzazione deve dirigere, monitorare e rivedere le  attivit\xE0\
+        description: "L'organizzazione deve dirigere, monitorare e rivedere le attivit\xE0\
           \ relative allo sviluppo esterno dei sistemi."
   - urn: urn:intuitem:risk:function:doc-pol:a.8.31
     ref_id: A.8.31
@@ -3336,8 +3335,8 @@ objects:
           \ y producci\xF3n est\xE9n segregados para evitar interacciones no deseadas\
           \ y accesos no autorizados."
       it:
-        name: Separazione degli ambienti  di sviluppo, test e  produzione
-        description: Gli ambienti di sviluppo, test e produzione devono  essere separati
+        name: Separazione degli ambienti di sviluppo, test e produzione
+        description: Gli ambienti di sviluppo, test e produzione devono essere separati
           e protetti.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.32
     ref_id: A.8.32
@@ -3367,8 +3366,8 @@ objects:
           de forma segura para minimizar los riesgos y mantener la estabilidad operativa.
       it:
         name: Gestione dei cambiamenti
-        description: I cambiamenti alle strutture di elaborazione delle  informazioni
-          e ai sistemi informativi devono essere  soggetti a procedure di gestione
+        description: I cambiamenti alle strutture di elaborazione delle informazioni
+          e ai sistemi informativi devono essere soggetti a procedure di gestione
           dei cambiamenti.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.33
     ref_id: A.8.33
@@ -3397,8 +3396,8 @@ objects:
           n de informaci\xF3n sensible o confidencial durante los procesos de prueba."
       it:
         name: Informazioni di test
-        description: Le informazioni di test devono essere selezionate,  protette
-          e gestite in modo appropriato.
+        description: Le informazioni di test devono essere selezionate, protette e
+          gestite in modo appropriato.
   - urn: urn:intuitem:risk:function:doc-pol:a.8.34
     ref_id: A.8.34
     name: Protection of information systems during audit testing
@@ -3441,10 +3440,10 @@ objects:
           \ entornos que no son de producci\xF3n, restricciones de acceso y acuerdos\
           \ de confidencialidad para mantener la seguridad y la integridad del sistema."
       it:
-        name: Protezione dei sistemi  informativi durante i test di  audit
+        name: Protezione dei sistemi informativi durante i test di audit
         description: "I test di audit e altre attivit\xE0 di garanzia che coinvolgono\
-          \  la valutazione dei sistemi operativi devono essere  pianificati e concordati\
-          \ tra il tester e la gestione  appropriata."
+          \ la valutazione dei sistemi operativi devono essere pianificati e concordati\
+          \ tra il tester e la gestione appropriata."
   framework:
     urn: urn:intuitem:risk:framework:iso27001-2022
     ref_id: ISO/IEC 27001:2022
@@ -5042,12 +5041,12 @@ objects:
             \ de objetivos y la garant\xEDa de la alineaci\xF3n con los requisitos\
             \ de cumplimiento."
         it:
-          name: Politiche per la sicurezza  delle informazioni
-          description: La politica di sicurezza delle informazioni e le politiche  specifiche
-            per argomento devono essere definite,  approvate dalla direzione, pubblicate,
-            comunicate e  riconosciute dal personale rilevante e dalle parti  interessate
-            pertinenti, e revisionate a intervalli  pianificati e in caso di cambiamenti
-            significativi.
+          name: Politiche per la sicurezza delle informazioni
+          description: La politica di sicurezza delle informazioni e le politiche
+            specifiche per argomento devono essere definite, approvate dalla direzione,
+            pubblicate, comunicate e riconosciute dal personale rilevante e dalle
+            parti interessate pertinenti, e revisionate a intervalli pianificati e
+            in caso di cambiamenti significativi.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.2
       assessable: true
       depth: 3
@@ -5092,9 +5091,9 @@ objects:
             \ Las medidas incluyen documentaci\xF3n clara de las responsabilidades,\
             \ revisiones peri\xF3dicas y mecanismos de cumplimiento."
         it:
-          name: "Ruoli e responsabilit\xE0 per la  sicurezza delle informazioni"
-          description: "I ruoli e le responsabilit\xE0 per la sicurezza delle  informazioni\
-            \ devono essere definiti e assegnati in base  alle esigenze dell'organizzazione."
+          name: "Ruoli e responsabilit\xE0 per la sicurezza delle informazioni"
+          description: "I ruoli e le responsabilit\xE0 per la sicurezza delle informazioni\
+            \ devono essere definiti e assegnati in base alle esigenze dell'organizzazione."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.3
       assessable: true
       depth: 3
@@ -5135,8 +5134,8 @@ objects:
             \ y auditor\xEDas peri\xF3dicas."
         it:
           name: Separazione dei compiti
-          description: "I compiti in conflitto e le aree di responsabilit\xE0 in \
-            \ conflitto devono essere separate."
+          description: "I compiti in conflitto e le aree di responsabilit\xE0 in conflitto\
+            \ devono essere separate."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.4
       assessable: true
       depth: 3
@@ -5178,11 +5177,11 @@ objects:
             \ e implementadas. Las medidas incluyen el establecimiento de objetivos,\
             \ la asignaci\xF3n de recursos y la supervisi\xF3n del cumplimiento."
         it:
-          name: "Responsabilit\xE0 della  direzione"
-          description: "La direzione deve richiedere a tutto il personale di  applicare\
-            \ la sicurezza delle informazioni in conformit\xE0  con la politica di\
-            \ sicurezza delle informazioni stabilita, le  politiche specifiche per\
-            \ argomento e le procedure  dell'organizzazione."
+          name: "Responsabilit\xE0 della direzione"
+          description: "La direzione deve richiedere a tutto il personale di applicare\
+            \ la sicurezza delle informazioni in conformit\xE0 con la politica di\
+            \ sicurezza delle informazioni stabilita, le politiche specifiche per\
+            \ argomento e le procedure dell'organizzazione."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.5
       assessable: true
       depth: 3
@@ -5227,8 +5226,8 @@ objects:
             n de responsabilidades."
         it:
           name: "Contatti con le autorit\xE0"
-          description: "L'organizzazione deve stabilire e mantenere contatti  con\
-            \ le autorit\xE0 pertinenti."
+          description: "L'organizzazione deve stabilire e mantenere contatti con le\
+            \ autorit\xE0 pertinenti."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.6
       assessable: true
       depth: 3
@@ -5267,9 +5266,9 @@ objects:
             \ de seguridad. Las medidas incluyen la participaci\xF3n en foros, membres\xED\
             as e iniciativas de colaboraci\xF3n."
         it:
-          name: Contatti con gruppi di  interesse speciale
-          description: L'organizzazione deve stabilire e mantenere contatti  con gruppi
-            di interesse speciale o altri forum  specialistici sulla sicurezza e associazioni
+          name: Contatti con gruppi di interesse speciale
+          description: L'organizzazione deve stabilire e mantenere contatti con gruppi
+            di interesse speciale o altri forum specialistici sulla sicurezza e associazioni
             professionali.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.7
       assessable: true
@@ -5313,8 +5312,9 @@ objects:
             lisis de tendencias y el intercambio de informaci\xF3n procesable."
         it:
           name: Intelligence sulle minacce
-          description: Le informazioni relative alle minacce alla sicurezza delle  informazioni
-            devono essere raccolte e analizzate per  produrre intelligence sulle minacce.
+          description: Le informazioni relative alle minacce alla sicurezza delle
+            informazioni devono essere raccolte e analizzate per produrre intelligence
+            sulle minacce.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.8
       assessable: true
       depth: 3
@@ -5356,8 +5356,8 @@ objects:
             \ de riesgos, revisiones de cumplimiento y puntos de control de seguridad\
             \ durante los ciclos de vida del proyecto."
         it:
-          name: Sicurezza delle informazioni  nella gestione dei progetti
-          description: La sicurezza delle informazioni deve essere integrata  nella
+          name: Sicurezza delle informazioni nella gestione dei progetti
+          description: La sicurezza delle informazioni deve essere integrata nella
             gestione dei progetti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.9
       assessable: true
@@ -5397,9 +5397,9 @@ objects:
             \ seguimiento de activos, auditor\xEDas peri\xF3dicas y clasificaci\xF3\
             n por sensibilidad."
         it:
-          name: Inventario delle informazioni  e di altri asset associati
-          description: Deve essere sviluppato e mantenuto un inventario delle  informazioni
-            e degli altri asset associati, inclusi i  proprietari.
+          name: Inventario delle informazioni e di altri asset associati
+          description: Deve essere sviluppato e mantenuto un inventario delle informazioni
+            e degli altri asset associati, inclusi i proprietari.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.10
       assessable: true
       depth: 3
@@ -5443,10 +5443,10 @@ objects:
             \ incluyen pol\xEDticas documentadas, capacitaci\xF3n de usuarios y mecanismos\
             \ de cumplimiento."
         it:
-          name: Utilizzo accettabile delle  informazioni e di altri asset  associati
-          description: Devono essere identificate, documentate e  implementate regole
-            per l'utilizzo accettabile e  procedure per la gestione delle informazioni
-            e degli altri  asset associati.
+          name: Utilizzo accettabile delle informazioni e di altri asset associati
+          description: Devono essere identificate, documentate e implementate regole
+            per l'utilizzo accettabile e procedure per la gestione delle informazioni
+            e degli altri asset associati.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.11
       assessable: true
       depth: 3
@@ -5488,9 +5488,9 @@ objects:
             \ y protocolos de desmantelamiento."
         it:
           name: Restituzione degli asset
-          description: Il personale e altre parti interessate, se appropriato,  devono
-            restituire tutti gli asset dell'organizzazione in  loro possesso al momento
-            del cambiamento o della  cessazione del loro impiego, contratto o accordo.
+          description: Il personale e altre parti interessate, se appropriato, devono
+            restituire tutti gli asset dell'organizzazione in loro possesso al momento
+            del cambiamento o della cessazione del loro impiego, contratto o accordo.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.12
       assessable: true
       depth: 3
@@ -5532,10 +5532,10 @@ objects:
             n adecuada. Las medidas incluyen esquemas de clasificaci\xF3n, restricciones\
             \ de acceso y pautas de etiquetado."
         it:
-          name: Classificazione delle  informazioni
-          description: "Le informazioni devono essere classificate in base alle  esigenze\
-            \ di sicurezza delle informazioni  dell'organizzazione, in base a confidenzialit\xE0\
-            , integrit\xE0,  disponibilit\xE0 e requisiti pertinenti delle parti interessate."
+          name: Classificazione delle informazioni
+          description: "Le informazioni devono essere classificate in base alle esigenze\
+            \ di sicurezza delle informazioni dell'organizzazione, in base a confidenzialit\xE0\
+            , integrit\xE0, disponibilit\xE0 e requisiti pertinenti delle parti interessate."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.13
       assessable: true
       depth: 3
@@ -5574,10 +5574,10 @@ objects:
             n para reflejar sus requisitos de clasificaci\xF3n y manejo. Las medidas\
             \ incluyen plantillas estandarizadas, capacitaci\xF3n y auditor\xEDas."
         it:
-          name: Etichettatura delle  informazioni
-          description: "Deve essere sviluppato e implementato un insieme  appropriato\
-            \ di procedure per l'etichettatura delle  informazioni, in conformit\xE0\
-            \ con lo schema di  classificazione delle informazioni adottato  dall'organizzazione."
+          name: Etichettatura delle informazioni
+          description: "Deve essere sviluppato e implementato un insieme appropriato\
+            \ di procedure per l'etichettatura delle informazioni, in conformit\xE0\
+            \ con lo schema di classificazione delle informazioni adottato dall'organizzazione."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.14
       assessable: true
       depth: 3
@@ -5616,11 +5616,11 @@ objects:
             \ de informaci\xF3n entre sistemas u organizaciones. Las medidas incluyen\
             \ cifrado, controles de acceso y protocolos de transferencia segura."
         it:
-          name: Trasferimento delle  informazioni
-          description: Devono essere in vigore un insieme di regole,  procedure o
-            accordi per il trasferimento delle  informazioni in tutti i tipi di strutture
-            di trasferimento  all'interno dell'organizzazione e tra l'organizzazione
-            e  altre parti.
+          name: Trasferimento delle informazioni
+          description: Devono essere in vigore un insieme di regole, procedure o accordi
+            per il trasferimento delle informazioni in tutti i tipi di strutture di
+            trasferimento all'interno dell'organizzazione e tra l'organizzazione e
+            altre parti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.15
       assessable: true
       depth: 3
@@ -5663,9 +5663,9 @@ objects:
             \ y las revisiones peri\xF3dicas."
         it:
           name: Controllo degli accessi
-          description: Devono essere stabilite e implementate regole per  controllare
-            l'accesso fisico e logico alle informazioni e  ad altri asset associati,
-            in base ai requisiti aziendali e di  sicurezza delle informazioni.
+          description: Devono essere stabilite e implementate regole per controllare
+            l'accesso fisico e logico alle informazioni e ad altri asset associati,
+            in base ai requisiti aziendali e di sicurezza delle informazioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.16
       assessable: true
       depth: 3
@@ -5708,7 +5708,7 @@ objects:
             \ del ciclo de vida y el aprovisionamiento de acceso."
         it:
           name: "Gestione delle identit\xE0"
-          description: "Il ciclo di vita completo delle identit\xE0 deve essere  gestito."
+          description: "Il ciclo di vita completo delle identit\xE0 deve essere gestito."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.17
       assessable: true
       depth: 3
@@ -5748,10 +5748,10 @@ objects:
             \ incluyen cifrado, almacenamiento seguro y actualizaciones peri\xF3dicas\
             \ de contrase\xF1as."
         it:
-          name: Informazioni di  autenticazione
-          description: L'assegnazione e la gestione delle informazioni di  autenticazione
-            devono essere controllate da un  processo gestionale, incluso l'avviso
-            al personale  sull'adeguato trattamento delle informazioni di  autenticazione.
+          name: Informazioni di autenticazione
+          description: L'assegnazione e la gestione delle informazioni di autenticazione
+            devono essere controllate da un processo gestionale, incluso l'avviso
+            al personale sull'adeguato trattamento delle informazioni di autenticazione.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.18
       assessable: true
       depth: 3
@@ -5794,10 +5794,10 @@ objects:
             \ revocaci\xF3n de acceso y gesti\xF3n automatizada del acceso."
         it:
           name: Diritti di accesso
-          description: "I diritti di accesso alle informazioni e ad altri asset  associati\
-            \ devono essere forniti, revisionati, modificati e  rimossi in conformit\xE0\
-            \ con la politica specifica per  argomento e le regole dell'organizzazione\
-            \ per il  controllo degli accessi."
+          description: "I diritti di accesso alle informazioni e ad altri asset associati\
+            \ devono essere forniti, revisionati, modificati e rimossi in conformit\xE0\
+            \ con la politica specifica per argomento e le regole dell'organizzazione\
+            \ per il controllo degli accessi."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.19
       assessable: true
       depth: 3
@@ -5837,10 +5837,10 @@ objects:
             \ Las medidas incluyen la diligencia debida, las revisiones de seguridad\
             \ y el monitoreo continuo."
         it:
-          name: Sicurezza delle informazioni  nelle relazioni con i fornitori
-          description: Devono essere definite e implementate procedure e  processi
-            per gestire i rischi per la sicurezza delle  informazioni associati all'uso
-            dei prodotti o servizi del  fornitore.
+          name: Sicurezza delle informazioni nelle relazioni con i fornitori
+          description: Devono essere definite e implementate procedure e processi
+            per gestire i rischi per la sicurezza delle informazioni associati all'uso
+            dei prodotti o servizi del fornitore.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.20
       assessable: true
       depth: 3
@@ -5883,9 +5883,9 @@ objects:
             usulas contractuales expl\xEDcitas, auditor\xEDas de cumplimiento y sanciones\
             \ definidas por infracciones."
         it:
-          name: Affrontare la sicurezza delle  informazioni nei contratti  con i fornitori
-          description: Requisiti pertinenti per la sicurezza delle informazioni  devono
-            essere stabiliti e concordati con ciascun  fornitore in base al tipo di
+          name: Affrontare la sicurezza delle informazioni nei contratti con i fornitori
+          description: Requisiti pertinenti per la sicurezza delle informazioni devono
+            essere stabiliti e concordati con ciascun fornitore in base al tipo di
             relazione con il fornitore.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.21
       assessable: true
@@ -5930,11 +5930,11 @@ objects:
             \ servicios y componentes. Las medidas incluyen evaluaciones de riesgos,\
             \ evaluaciones de proveedores y protocolos de respuesta a incidentes."
         it:
-          name: Gestione della sicurezza  delle informazioni nella  catena di  approvvigionamento
+          name: Gestione della sicurezza delle informazioni nella catena di approvvigionamento
             ICT
-          description: Devono essere definiti e implementati processi e  procedure
-            per gestire i rischi per la sicurezza delle  informazioni associati alla
-            catena di  approvvigionamento di prodotti e servizi ICT.
+          description: Devono essere definiti e implementati processi e procedure
+            per gestire i rischi per la sicurezza delle informazioni associati alla
+            catena di approvvigionamento di prodotti e servizi ICT.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.22
       assessable: true
       depth: 3
@@ -5980,10 +5980,10 @@ objects:
             n. Las medidas incluyen acuerdos de nivel de servicio, revisiones peri\xF3\
             dicas y actualizaciones de contratos."
         it:
-          name: Monitoraggio, revisione e  gestione dei servizi dei  fornitori
-          description: L'organizzazione deve monitorare regolarmente,  revisionare,
-            valutare e gestire i cambiamenti nelle  pratiche di sicurezza delle informazioni
-            e nella fornitura  dei servizi da parte dei fornitori.
+          name: Monitoraggio, revisione e gestione dei servizi dei fornitori
+          description: L'organizzazione deve monitorare regolarmente, revisionare,
+            valutare e gestire i cambiamenti nelle pratiche di sicurezza delle informazioni
+            e nella fornitura dei servizi da parte dei fornitori.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.23
       assessable: true
       depth: 3
@@ -6025,10 +6025,10 @@ objects:
             nube al abordar los riesgos asociados. Las medidas incluyen cifrado de
             datos, controles de acceso y revisiones de cumplimiento de proveedores.
         it:
-          name: Sicurezza delle informazioni  per l'uso dei servizi cloud
+          name: Sicurezza delle informazioni per l'uso dei servizi cloud
           description: "Devono essere stabiliti processi per l'acquisizione, l'uso,\
-            \  la gestione e l'uscita dai servizi cloud in conformit\xE0 con i  requisiti\
-            \ di sicurezza delle informazioni  dell'organizzazione."
+            \ la gestione e l'uscita dai servizi cloud in conformit\xE0 con i requisiti\
+            \ di sicurezza delle informazioni dell'organizzazione."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.24
       assessable: true
       depth: 3
@@ -6071,12 +6071,12 @@ objects:
             n. Las medidas incluyen planes de respuesta a incidentes, ejercicios de\
             \ capacitaci\xF3n y protocolos de comunicaci\xF3n."
         it:
-          name: Pianificazione e  preparazione per la gestione  degli incidenti di
-            sicurezza  delle informazioni
-          description: "L'organizzazione deve pianificare e prepararsi per  gestire\
-            \ gli incidenti di sicurezza delle informazioni  definendo, istituendo\
-            \ e comunicando processi, ruoli e  responsabilit\xE0 per la gestione degli\
-            \ incidenti di  sicurezza delle informazioni."
+          name: Pianificazione e preparazione per la gestione degli incidenti di sicurezza
+            delle informazioni
+          description: "L'organizzazione deve pianificare e prepararsi per gestire\
+            \ gli incidenti di sicurezza delle informazioni definendo, istituendo\
+            \ e comunicando processi, ruoli e responsabilit\xE0 per la gestione degli\
+            \ incidenti di sicurezza delle informazioni."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.25
       assessable: true
       depth: 3
@@ -6121,10 +6121,10 @@ objects:
             \ Las medidas incluyen an\xE1lisis de causa ra\xEDz, evaluaci\xF3n de\
             \ riesgos y planes de mitigaci\xF3n."
         it:
-          name: Valutazione e decisione sugli  eventi di sicurezza delle  informazioni
-          description: L'organizzazione deve valutare gli eventi di sicurezza  delle
-            informazioni e decidere se devono essere  categorizzati come incidenti
-            di sicurezza delle  informazioni.
+          name: Valutazione e decisione sugli eventi di sicurezza delle informazioni
+          description: L'organizzazione deve valutare gli eventi di sicurezza delle
+            informazioni e decidere se devono essere categorizzati come incidenti
+            di sicurezza delle informazioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.26
       assessable: true
       depth: 3
@@ -6165,9 +6165,9 @@ objects:
             \ r\xE1pidamente. Las medidas incluyen informes de incidentes, protocolos\
             \ de escalada y estrategias de contenci\xF3n."
         it:
-          name: Risposta agli incidenti di  sicurezza delle informazioni
-          description: "Gli incidenti di sicurezza delle informazioni devono  essere\
-            \ gestiti in conformit\xE0 con le procedure  documentate."
+          name: Risposta agli incidenti di sicurezza delle informazioni
+          description: "Gli incidenti di sicurezza delle informazioni devono essere\
+            \ gestiti in conformit\xE0 con le procedure documentate."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.27
       assessable: true
       depth: 3
@@ -6210,10 +6210,10 @@ objects:
             \ para mejorar los procesos. Las medidas incluyen revisiones posteriores\
             \ al incidente, planes de acci\xF3n y actualizaciones de pol\xEDticas."
         it:
-          name: Apprendimento dagli  incidenti di sicurezza delle  informazioni
-          description: Le conoscenze acquisite dagli incidenti di sicurezza delle  informazioni
-            devono essere utilizzate per rafforzare e  migliorare i controlli della
-            sicurezza delle informazioni.
+          name: Apprendimento dagli incidenti di sicurezza delle informazioni
+          description: Le conoscenze acquisite dagli incidenti di sicurezza delle
+            informazioni devono essere utilizzate per rafforzare e migliorare i controlli
+            della sicurezza delle informazioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.28
       assessable: true
       depth: 3
@@ -6256,9 +6256,9 @@ objects:
             seguro y controles de acceso.
         it:
           name: Raccolta di prove
-          description: L'organizzazione deve stabilire e implementare  procedure per
-            l'identificazione, la raccolta,  l'acquisizione e la conservazione di
-            prove relative agli  eventi di sicurezza delle informazioni.
+          description: L'organizzazione deve stabilire e implementare procedure per
+            l'identificazione, la raccolta, l'acquisizione e la conservazione di prove
+            relative agli eventi di sicurezza delle informazioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.29
       assessable: true
       depth: 3
@@ -6299,9 +6299,9 @@ objects:
             \ de las operaciones. Las medidas incluyen planes de contingencia, sistemas\
             \ de respaldo y mecanismos de conmutaci\xF3n por error."
         it:
-          name: Sicurezza delle informazioni  durante la distruzione
-          description: L'organizzazione deve pianificare come mantenere la  sicurezza
-            delle informazioni ad un livello appropriato  durante la distruzione.
+          name: Sicurezza delle informazioni durante la distruzione
+          description: L'organizzazione deve pianificare come mantenere la sicurezza
+            delle informazioni ad un livello appropriato durante la distruzione.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.30
       assessable: true
       depth: 3
@@ -6344,9 +6344,9 @@ objects:
             \ durante las interrupciones. Las medidas incluyen probar planes de recuperaci\xF3\
             n, sistemas redundantes y sitios de recuperaci\xF3n ante desastres."
         it:
-          name: "Prontezza ICT per la  continuit\xE0 aziendale"
-          description: "La prontezza ICT deve essere pianificata, implementata,  mantenuta\
-            \ e testata in base agli obiettivi di continuit\xE0  aziendale e ai requisiti\
+          name: "Prontezza ICT per la continuit\xE0 aziendale"
+          description: "La prontezza ICT deve essere pianificata, implementata, mantenuta\
+            \ e testata in base agli obiettivi di continuit\xE0 aziendale e ai requisiti\
             \ di continuit\xE0 ICT."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.31
       assessable: true
@@ -6387,10 +6387,10 @@ objects:
             n. Las medidas incluyen revisiones de pol\xEDticas, auditor\xEDas y documentaci\xF3\
             n de evidencias."
         it:
-          name: Requisiti legali, statutari,  regolamentari e contrattuali
-          description: I requisiti legali, statutari, regolamentari e contrattuali  rilevanti
-            per la sicurezza delle informazioni devono  essere identificati, documentati
-            e mantenuti aggiornati.
+          name: Requisiti legali, statutari, regolamentari e contrattuali
+          description: I requisiti legali, statutari, regolamentari e contrattuali
+            rilevanti per la sicurezza delle informazioni devono essere identificati,
+            documentati e mantenuti aggiornati.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.32
       assessable: true
       depth: 3
@@ -6431,9 +6431,9 @@ objects:
             n adecuadas. Las medidas incluyen restricciones de acceso, cifrado y acuerdos\
             \ legales."
         it:
-          name: "Diritti di propriet\xE0  intellettuale"
-          description: "L'organizzazione deve implementare procedure  appropriate\
-            \ per proteggere i diritti di propriet\xE0  intellettuale."
+          name: "Diritti di propriet\xE0 intellettuale"
+          description: "L'organizzazione deve implementare procedure appropriate per\
+            \ proteggere i diritti di propriet\xE0 intellettuale."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.33
       assessable: true
       depth: 3
@@ -6476,8 +6476,8 @@ objects:
             \ y controles de acceso."
         it:
           name: Protezione dei documenti
-          description: I documenti devono essere protetti da perdita,  distruzione,
-            falsificazione, accesso non autorizzato e  divulgazione non autorizzata.
+          description: I documenti devono essere protetti da perdita, distruzione,
+            falsificazione, accesso non autorizzato e divulgazione non autorizzata.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.34
       assessable: true
       depth: 3
@@ -6519,11 +6519,10 @@ objects:
             \ incluyen la anonimizaci\xF3n, el cifrado y el cumplimiento de las leyes\
             \ de privacidad."
         it:
-          name: Privacy e protezione delle  informazioni personali  identificabili
-            (PII)
-          description: "L'organizzazione deve identificare e soddisfare i  requisiti\
-            \ relativi alla tutela della privacy e alla protezione  delle PII in conformit\xE0\
-            \ alle leggi, ai regolamenti  applicabili e ai requisiti contrattuali."
+          name: Privacy e protezione delle informazioni personali identificabili (PII)
+          description: "L'organizzazione deve identificare e soddisfare i requisiti\
+            \ relativi alla tutela della privacy e alla protezione delle PII in conformit\xE0\
+            \ alle leggi, ai regolamenti applicabili e ai requisiti contrattuali."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.35
       assessable: true
       depth: 3
@@ -6564,11 +6563,11 @@ objects:
             \ medidas incluyen auditor\xEDas externas, evaluaciones de riesgos y acciones\
             \ de seguimiento."
         it:
-          name: Revisione indipendente della  sicurezza delle informazioni
-          description: L'approccio dell'organizzazione alla gestione della  sicurezza
-            delle informazioni e la sua implementazione,  compresi persone, processi
-            e tecnologie, devono essere  periodicamente riesaminati in modo indipendente
-            a  intervalli pianificati o in caso di cambiamenti  significativi.
+          name: Revisione indipendente della sicurezza delle informazioni
+          description: L'approccio dell'organizzazione alla gestione della sicurezza
+            delle informazioni e la sua implementazione, compresi persone, processi
+            e tecnologie, devono essere periodicamente riesaminati in modo indipendente
+            a intervalli pianificati o in caso di cambiamenti significativi.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.36
       assessable: true
       depth: 3
@@ -6612,11 +6611,11 @@ objects:
             \ incluyen capacitaci\xF3n peri\xF3dica, revisiones de pol\xEDticas y\
             \ mecanismos de aplicaci\xF3n."
         it:
-          name: "Conformit\xE0 alle politiche,  regole e standard per la  sicurezza\
+          name: "Conformit\xE0 alle politiche, regole e standard per la sicurezza\
             \ delle informazioni"
-          description: "La conformit\xE0 alla politica di sicurezza delle  informazioni\
-            \ dell'organizzazione, alle politiche  specifiche per argomento, alle\
-            \ regole e agli standard  deve essere regolarmente riesaminata."
+          description: "La conformit\xE0 alla politica di sicurezza delle informazioni\
+            \ dell'organizzazione, alle politiche specifiche per argomento, alle regole\
+            \ e agli standard deve essere regolarmente riesaminata."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.5.37
       assessable: true
       depth: 3
@@ -6656,9 +6655,9 @@ objects:
             \ Las medidas incluyen la documentaci\xF3n del proceso, el control de\
             \ versiones y la accesibilidad."
         it:
-          name: Procedure operative  documentate
-          description: Le procedure operative per le strutture di elaborazione  delle
-            informazioni devono essere documentate e messe  a disposizione del personale
+          name: Procedure operative documentate
+          description: Le procedure operative per le strutture di elaborazione delle
+            informazioni devono essere documentate e messe a disposizione del personale
             che ne ha bisogno.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6
       assessable: false
@@ -6724,12 +6723,12 @@ objects:
             \ de seguridad."
         it:
           name: Screening
-          description: Verifiche di verifica del background su tutti i candidati  per
-            diventare personale devono essere effettuate  prima di entrare a far parte
-            dell'organizzazione e in  modo continuativo, prendendo in considerazione
-            le  leggi, i regolamenti, l'etica applicabile e  proporzionalmente alle
-            esigenze aziendali, alla  classificazione delle informazioni da accedere
-            e ai rischi  percepiti.
+          description: Verifiche di verifica del background su tutti i candidati per
+            diventare personale devono essere effettuate prima di entrare a far parte
+            dell'organizzazione e in modo continuativo, prendendo in considerazione
+            le leggi, i regolamenti, l'etica applicabile e proporzionalmente alle
+            esigenze aziendali, alla classificazione delle informazioni da accedere
+            e ai rischi percepiti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6.2
       assessable: true
       depth: 3
@@ -6771,9 +6770,9 @@ objects:
             n. Las medidas incluyen cl\xE1usulas expl\xEDcitas sobre confidencialidad,\
             \ cumplimiento de pol\xEDticas y consecuencias por infracciones."
         it:
-          name: Termini e condizioni di  impiego
+          name: Termini e condizioni di impiego
           description: "I contratti di lavoro devono specificare le responsabilit\xE0\
-            \  del personale e dell'organizzazione per la sicurezza  delle informazioni."
+            \ del personale e dell'organizzazione per la sicurezza delle informazioni."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6.3
       assessable: true
       depth: 3
@@ -6817,12 +6816,12 @@ objects:
             \ informaci\xF3n. Las medidas incluyen sesiones de capacitaci\xF3n programadas,\
             \ programas de aprendizaje electr\xF3nico y ejercicios simulados de phishing."
         it:
-          name: Consapevolezza, formazione  ed educazione sulla  sicurezza delle informazioni
-          description: Il personale dell'organizzazione e le parti interessate  pertinenti
-            devono ricevere adeguate consapevolezza,  formazione ed educazione sulla
-            sicurezza delle  informazioni e aggiornamenti regolari della politica
-            di  sicurezza delle informazioni dell'organizzazione, delle  politiche
-            specifiche per argomento e delle procedure, in  relazione alle loro mansioni.
+          name: Consapevolezza, formazione ed educazione sulla sicurezza delle informazioni
+          description: Il personale dell'organizzazione e le parti interessate pertinenti
+            devono ricevere adeguate consapevolezza, formazione ed educazione sulla
+            sicurezza delle informazioni e aggiornamenti regolari della politica di
+            sicurezza delle informazioni dell'organizzazione, delle politiche specifiche
+            per argomento e delle procedure, in relazione alle loro mansioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6.4
       assessable: true
       depth: 3
@@ -6865,10 +6864,10 @@ objects:
             \ y una aplicaci\xF3n coherente para mantener la rendici\xF3n de cuentas."
         it:
           name: Processo disciplinare
-          description: Un processo disciplinare deve essere formalizzato e  comunicato
-            per intraprendere azioni contro il  personale e altre parti interessate
-            pertinenti che hanno  commesso una violazione della politica di sicurezza  delle
-            informazioni.
+          description: Un processo disciplinare deve essere formalizzato e comunicato
+            per intraprendere azioni contro il personale e altre parti interessate
+            pertinenti che hanno commesso una violazione della politica di sicurezza
+            delle informazioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6.5
       assessable: true
       depth: 3
@@ -6916,11 +6915,11 @@ objects:
             n de los derechos de acceso, la recopilaci\xF3n de activos de la organizaci\xF3\
             n y la realizaci\xF3n de entrevistas de salida."
         it:
-          name: "Responsabilit\xE0 dopo la  cessazione o il cambio di  impiego"
+          name: "Responsabilit\xE0 dopo la cessazione o il cambio di impiego"
           description: "Le responsabilit\xE0 e i doveri relativi alla sicurezza delle\
-            \  informazioni che rimangono validi dopo la cessazione o  il cambio di\
-            \ impiego devono essere definiti, attuati e  comunicati al personale e\
-            \ alle altre parti interessate  pertinenti."
+            \ informazioni che rimangono validi dopo la cessazione o il cambio di\
+            \ impiego devono essere definiti, attuati e comunicati al personale e\
+            \ alle altre parti interessate pertinenti."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6.6
       assessable: true
       depth: 3
@@ -6964,11 +6963,11 @@ objects:
             \ incluyen acuerdos firmados al comienzo del empleo, recordatorios peri\xF3\
             dicos y la aplicaci\xF3n de acciones legales en caso de violaciones."
         it:
-          name: Accordi di riservatezza o non  divulgazione
-          description: Gli accordi di riservatezza o non divulgazione che  riflettono
-            le esigenze dell'organizzazione per la  protezione delle informazioni
-            devono essere  identificati, documentati, regolarmente riesaminati e  firmati
-            dal personale e dalle altre parti interessate  pertinenti.
+          name: Accordi di riservatezza o non divulgazione
+          description: Gli accordi di riservatezza o non divulgazione che riflettono
+            le esigenze dell'organizzazione per la protezione delle informazioni devono
+            essere identificati, documentati, regolarmente riesaminati e firmati dal
+            personale e dalle altre parti interessate pertinenti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6.7
       assessable: true
       depth: 3
@@ -7014,9 +7013,9 @@ objects:
             \ remota."
         it:
           name: Lavoro remoto
-          description: Devono essere implementate misure di sicurezza  quando il personale
-            lavora in remoto per proteggere le  informazioni a cui si accede, elabora
-            o memorizza al di  fuori dei locali dell'organizzazione.
+          description: Devono essere implementate misure di sicurezza quando il personale
+            lavora in remoto per proteggere le informazioni a cui si accede, elabora
+            o memorizza al di fuori dei locali dell'organizzazione.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.6.8
       assessable: true
       depth: 3
@@ -7062,10 +7061,10 @@ objects:
             n y procedimientos de seguimiento para investigar y abordar los eventos\
             \ denunciados."
         it:
-          name: Segnalazione degli eventi  relativi alla sicurezza delle  informazioni
-          description: "L'organizzazione deve fornire un meccanismo affinch\xE9  il\
-            \ personale possa segnalare in modo tempestivo eventi  di sicurezza delle\
-            \ informazioni osservati o sospettati  attraverso canali appropriati."
+          name: Segnalazione degli eventi relativi alla sicurezza delle informazioni
+          description: "L'organizzazione deve fornire un meccanismo affinch\xE9 il\
+            \ personale possa segnalare in modo tempestivo eventi di sicurezza delle\
+            \ informazioni osservati o sospettati attraverso canali appropriati."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7
       assessable: false
       depth: 2
@@ -7130,8 +7129,8 @@ objects:
             \ para garantizar que solo las personas autorizadas puedan ingresar."
         it:
           name: Perimetri di sicurezza fisica
-          description: I perimetri di sicurezza devono essere definiti e  utilizzati
-            per proteggere aree che contengono  informazioni e altri asset associati.
+          description: I perimetri di sicurezza devono essere definiti e utilizzati
+            per proteggere aree che contengono informazioni e altri asset associati.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.2
       assessable: true
       depth: 3
@@ -7173,7 +7172,7 @@ objects:
             \ y registros de visitantes."
         it:
           name: Accesso fisico
-          description: Le aree sicure devono essere protette da controlli di  accesso
+          description: Le aree sicure devono essere protette da controlli di accesso
             appropriati e punti di accesso.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.3
       assessable: true
@@ -7215,8 +7214,8 @@ objects:
             \ Las medidas incluyen puertas cerradas, \xE1reas restringidas y sistemas\
             \ de vigilancia."
         it:
-          name: Sicurezza degli uffici, delle  stanze e delle strutture
-          description: La sicurezza fisica degli uffici, delle stanze e delle  strutture
+          name: Sicurezza degli uffici, delle stanze e delle strutture
+          description: La sicurezza fisica degli uffici, delle stanze e delle strutture
             deve essere progettata e implementata.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.4
       assessable: true
@@ -7256,8 +7255,8 @@ objects:
             \ medidas incluyen sistemas de CCTV, detectores de movimiento y alertas\
             \ en tiempo real."
         it:
-          name: Monitoraggio della sicurezza  fisica
-          description: I locali devono essere monitorati continuamente per  l'accesso
+          name: Monitoraggio della sicurezza fisica
+          description: I locali devono essere monitorati continuamente per l'accesso
             fisico non autorizzato.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.5
       assessable: true
@@ -7298,10 +7297,10 @@ objects:
             n de incendios, controles de temperatura y barreras de prevenci\xF3n de\
             \ inundaciones."
         it:
-          name: Protezione contro minacce  fisiche e ambientali
-          description: La protezione contro minacce fisiche ed ambientali,  come disastri
-            naturali o altre minacce fisiche  intenzionali o non intenzionali all'infrastruttura,
-            deve  essere progettata ed implementata.
+          name: Protezione contro minacce fisiche e ambientali
+          description: La protezione contro minacce fisiche ed ambientali, come disastri
+            naturali o altre minacce fisiche intenzionali o non intenzionali all'infrastruttura,
+            deve essere progettata ed implementata.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.6
       assessable: true
       depth: 3
@@ -7343,7 +7342,7 @@ objects:
             \ de control de acceso, escolta de visitantes y monitoreo de actividad."
         it:
           name: Lavoro in aree sicure
-          description: Misure di sicurezza per lavorare in aree sicure devono  essere
+          description: Misure di sicurezza per lavorare in aree sicure devono essere
             progettate ed implementate.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.7
       assessable: true
@@ -7387,10 +7386,10 @@ objects:
             \ y pantalla claras. Las medidas incluyen el bloqueo de documentos confidenciales\
             \ y el bloqueo autom\xE1tico de pantallas cuando no est\xE1n en uso."
         it:
-          name: Area di lavoro e schermo  puliti
-          description: Norme per la pulizia della scrivania per documenti e  supporti
-            rimovibili e regole per lo schermo dei sistemi  di elaborazione delle
-            informazioni devono essere  definite e applicate in modo appropriato.
+          name: Area di lavoro e schermo puliti
+          description: Norme per la pulizia della scrivania per documenti e supporti
+            rimovibili e regole per lo schermo dei sistemi di elaborazione delle informazioni
+            devono essere definite e applicate in modo appropriato.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.8
       assessable: true
       depth: 3
@@ -7432,8 +7431,8 @@ objects:
             \ incluyen montaje seguro, gabinetes cerrados con llave y \xE1reas de\
             \ acceso restringido."
         it:
-          name: Posizionamento e  protezione dell'attrezzatura
-          description: L'attrezzatura deve essere posizionata in modo sicuro e  protetta.
+          name: Posizionamento e protezione dell'attrezzatura
+          description: L'attrezzatura deve essere posizionata in modo sicuro e protetta.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.9
       assessable: true
       depth: 3
@@ -7513,10 +7512,10 @@ objects:
             \ seguro, cifrado y restricciones de acceso."
         it:
           name: Supporti di memorizzazione
-          description: "I supporti di memorizzazione devono essere gestiti  durante\
-            \ il loro ciclo di vita di acquisizione, utilizzo,  trasporto e smaltimento\
-            \ in conformit\xE0 con lo schema di  classificazione e i requisiti di\
-            \ gestione  dell'organizzazione."
+          description: "I supporti di memorizzazione devono essere gestiti durante\
+            \ il loro ciclo di vita di acquisizione, utilizzo, trasporto e smaltimento\
+            \ in conformit\xE0 con lo schema di classificazione e i requisiti di gestione\
+            \ dell'organizzazione."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.11
       assessable: true
       depth: 3
@@ -7558,9 +7557,9 @@ objects:
             \ y seguridad f\xEDsica."
         it:
           name: Servizi di supporto
-          description: Le strutture di elaborazione delle informazioni devono  essere
-            protette da interruzioni di corrente e da altre  interruzioni causate
-            da malfunzionamenti nei servizi di  supporto.
+          description: Le strutture di elaborazione delle informazioni devono essere
+            protette da interruzioni di corrente e da altre interruzioni causate da
+            malfunzionamenti nei servizi di supporto.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.12
       assessable: true
       depth: 3
@@ -7600,8 +7599,8 @@ objects:
             \ conductos de protecci\xF3n, etiquetado adecuado y enrutamiento seguro."
         it:
           name: Sicurezza dei cavi
-          description: I cavi che trasportano alimentazione, dati o servizi di  informazione
-            di supporto devono essere protetti da  intercettazioni, interferenze o
+          description: I cavi che trasportano alimentazione, dati o servizi di informazione
+            di supporto devono essere protetti da intercettazioni, interferenze o
             danneggiamenti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.13
       assessable: true
@@ -7644,9 +7643,9 @@ objects:
             \ servicio regular, pr\xE1cticas de mantenimiento seguras y acceso de\
             \ personal autorizado."
         it:
-          name: Manutenzione  dell'attrezzatura
-          description: "L'attrezzatura deve essere mantenuta correttamente  per garantire\
-            \ la disponibilit\xE0, l'integrit\xE0 e la riservatezza  delle informazioni."
+          name: Manutenzione dell'attrezzatura
+          description: "L'attrezzatura deve essere mantenuta correttamente per garantire\
+            \ la disponibilit\xE0, l'integrit\xE0 e la riservatezza delle informazioni."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.7.14
       assessable: true
       depth: 3
@@ -7688,11 +7687,11 @@ objects:
             \ incluyen la desinfecci\xF3n de datos, la destrucci\xF3n f\xEDsica y\
             \ los procesos de eliminaci\xF3n certificados."
         it:
-          name: Smaltimento sicuro o  riutilizzo dell'attrezzatura
-          description: Gli elementi di attrezzatura contenenti supporti di  memorizzazione
-            devono essere verificati per garantire  che tutti i dati sensibili e i
-            software con licenza siano  stati rimossi o sovrascritti in modo sicuro
-            prima dello  smaltimento o riutilizzo.
+          name: Smaltimento sicuro o riutilizzo dell'attrezzatura
+          description: Gli elementi di attrezzatura contenenti supporti di memorizzazione
+            devono essere verificati per garantire che tutti i dati sensibili e i
+            software con licenza siano stati rimossi o sovrascritti in modo sicuro
+            prima dello smaltimento o riutilizzo.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8
       assessable: false
       depth: 2
@@ -7754,9 +7753,9 @@ objects:
             \ seguridad como la detecci\xF3n de puntos de conexi\xF3n, el cifrado\
             \ y las configuraciones seguras para minimizar los riesgos."
         it:
-          name: Dispositivi terminali  dell'utente
-          description: Le informazioni memorizzate su, elaborate da o  accessibili
-            tramite dispositivi terminali dell'utente  devono essere protette.
+          name: Dispositivi terminali dell'utente
+          description: Le informazioni memorizzate su, elaborate da o accessibili
+            tramite dispositivi terminali dell'utente devono essere protette.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.2
       assessable: true
       depth: 3
@@ -7802,8 +7801,8 @@ objects:
             \ gesti\xF3n de cuentas."
         it:
           name: Diritti di accesso privilegiati
-          description: L'assegnazione e l'uso dei diritti di accesso privilegiati  devono
-            essere limitati e gestiti.
+          description: L'assegnazione e l'uso dei diritti di accesso privilegiati
+            devono essere limitati e gestiti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.3
       assessable: true
       depth: 3
@@ -7844,9 +7843,9 @@ objects:
             \ incluyen la autenticaci\xF3n de usuarios, los permisos basados en roles\
             \ y las revisiones peri\xF3dicas del acceso."
         it:
-          name: Restrizione dell'accesso alle  informazioni
-          description: "L'accesso alle informazioni e ad altri asset associati  deve\
-            \ essere limitato in conformit\xE0 con la politica  specifica per argomento\
+          name: Restrizione dell'accesso alle informazioni
+          description: "L'accesso alle informazioni e ad altri asset associati deve\
+            \ essere limitato in conformit\xE0 con la politica specifica per argomento\
             \ sul controllo degli accessi."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.4
       assessable: true
@@ -7889,8 +7888,8 @@ objects:
             \ restringido para desarrolladores."
         it:
           name: Accesso al codice sorgente
-          description: L'accesso in lettura e scrittura al codice sorgente, agli  strumenti
-            di sviluppo e alle librerie software deve  essere gestito in modo appropriato.
+          description: L'accesso in lettura e scrittura al codice sorgente, agli strumenti
+            di sviluppo e alle librerie software deve essere gestito in modo appropriato.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.5
       assessable: true
       depth: 3
@@ -7929,9 +7928,9 @@ objects:
             \ de los usuarios y evitar el acceso no autorizado."
         it:
           name: Autenticazione sicura
-          description: Tecnologie e procedure di autenticazione sicura devono  essere
-            implementate in base alle restrizioni di accesso  alle informazioni e
-            alla politica specifica per argomento  sul controllo degli accessi.
+          description: Tecnologie e procedure di autenticazione sicura devono essere
+            implementate in base alle restrizioni di accesso alle informazioni e alla
+            politica specifica per argomento sul controllo degli accessi.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.6
       assessable: true
       depth: 3
@@ -7973,8 +7972,8 @@ objects:
             n de las necesidades futuras."
         it:
           name: "Gestione delle capacit\xE0"
-          description: "L'uso delle risorse deve essere monitorato e adattato in \
-            \ linea con i requisiti di capacit\xE0 attuali e previsti."
+          description: "L'uso delle risorse deve essere monitorato e adattato in linea\
+            \ con i requisiti di capacit\xE0 attuali e previsti."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.7
       assessable: true
       depth: 3
@@ -8012,8 +8011,8 @@ objects:
             \ los sistemas contra malware y ataques maliciosos."
         it:
           name: Protezione contro malware
-          description: La protezione contro malware deve essere  implementata e supportata
-            da un'adeguata  consapevolezza degli utenti.
+          description: La protezione contro malware deve essere implementata e supportata
+            da un'adeguata consapevolezza degli utenti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.8
       assessable: true
       depth: 3
@@ -8052,10 +8051,10 @@ objects:
             \ medidas incluyen el an\xE1lisis de vulnerabilidades y la gesti\xF3n\
             \ de parches."
         it:
-          name: "Gestione delle vulnerabilit\xE0  tecniche"
-          description: "Deve essere ottenuta informazione sulle vulnerabilit\xE0 \
-            \ tecniche dei sistemi informativi in uso, valutata  l'esposizione dell'organizzazione\
-            \ a tali vulnerabilit\xE0 e  adottate misure appropriate."
+          name: "Gestione delle vulnerabilit\xE0 tecniche"
+          description: "Deve essere ottenuta informazione sulle vulnerabilit\xE0 tecniche\
+            \ dei sistemi informativi in uso, valutata l'esposizione dell'organizzazione\
+            \ a tali vulnerabilit\xE0 e adottate misure appropriate."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.9
       assessable: true
       depth: 3
@@ -8090,10 +8089,10 @@ objects:
             \ del sistema para mantener la configuraci\xF3n de seguridad y evitar\
             \ cambios no autorizados."
         it:
-          name: Gestione della  configurazione
-          description: Le configurazioni, inclusa la configurazione della  sicurezza,
-            dell'hardware, del software, dei servizi e delle  reti, devono essere
-            stabilite, documentate,  implementate, monitorate e revisionate.
+          name: Gestione della configurazione
+          description: Le configurazioni, inclusa la configurazione della sicurezza,
+            dell'hardware, del software, dei servizi e delle reti, devono essere stabilite,
+            documentate, implementate, monitorate e revisionate.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.10
       assessable: true
       depth: 3
@@ -8130,10 +8129,10 @@ objects:
             \ se elimine de forma segura cuando ya no sea necesaria para evitar la\
             \ recuperaci\xF3n o exposici\xF3n no autorizada."
         it:
-          name: Eliminazione delle  informazioni
-          description: "Le informazioni memorizzate nei sistemi informativi,  nei\
-            \ dispositivi o in qualsiasi altro supporto di  memorizzazione devono\
-            \ essere eliminate quando non  sono pi\xF9 necessarie."
+          name: Eliminazione delle informazioni
+          description: "Le informazioni memorizzate nei sistemi informativi, nei dispositivi\
+            \ o in qualsiasi altro supporto di memorizzazione devono essere eliminate\
+            \ quando non sono pi\xF9 necessarie."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.11
       assessable: true
       depth: 3
@@ -8172,10 +8171,10 @@ objects:
             \ de enmascaramiento de datos para ocultar los datos de usuarios no autorizados."
         it:
           name: Mascheramento dei dati
-          description: "Il mascheramento dei dati deve essere utilizzato in  conformit\xE0\
-            \ con la politica specifica per argomento  sull'accesso e altre politiche\
-            \ specifiche correlate, e ai  requisiti aziendali, considerando la legislazione\
-            \  applicabile."
+          description: "Il mascheramento dei dati deve essere utilizzato in conformit\xE0\
+            \ con la politica specifica per argomento sull'accesso e altre politiche\
+            \ specifiche correlate, e ai requisiti aziendali, considerando la legislazione\
+            \ applicabile."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.12
       assessable: true
       depth: 3
@@ -8211,10 +8210,10 @@ objects:
             n accidental de datos confidenciales a trav\xE9s de correo electr\xF3\
             nico, medios extra\xEDbles u otros canales."
         it:
-          name: Prevenzione della fuga di  dati
-          description: Misure di prevenzione della fuga di dati devono essere  applicate
-            a sistemi, reti e ad altri dispositivi che  elaborano, memorizzano o trasmettono
-            informazioni  sensibili.
+          name: Prevenzione della fuga di dati
+          description: Misure di prevenzione della fuga di dati devono essere applicate
+            a sistemi, reti e ad altri dispositivi che elaborano, memorizzano o trasmettono
+            informazioni sensibili.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.13
       assessable: true
       depth: 3
@@ -8252,9 +8251,9 @@ objects:
             \ en caso de incidentes o desastres."
         it:
           name: Backup delle informazioni
-          description: "Copie di backup di informazioni, software e sistemi  devono\
-            \ essere mantenute e regolarmente testate in  conformit\xE0 con la politica\
-            \ specifica per argomento sul  backup concordata."
+          description: "Copie di backup di informazioni, software e sistemi devono\
+            \ essere mantenute e regolarmente testate in conformit\xE0 con la politica\
+            \ specifica per argomento sul backup concordata."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.14
       assessable: true
       depth: 3
@@ -8292,9 +8291,9 @@ objects:
             \ en las instalaciones de procesamiento para mantener la disponibilidad\
             \ y las operaciones durante fallas o emergencias del sistema."
         it:
-          name: Ridondanza delle strutture  di elaborazione delle  informazioni
-          description: "Le strutture di elaborazione delle informazioni devono  essere\
-            \ implementate con una ridondanza sufficiente  per soddisfare i requisiti\
+          name: Ridondanza delle strutture di elaborazione delle informazioni
+          description: "Le strutture di elaborazione delle informazioni devono essere\
+            \ implementate con una ridondanza sufficiente per soddisfare i requisiti\
             \ di disponibilit\xE0."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.15
       assessable: true
@@ -8332,7 +8331,7 @@ objects:
         it:
           name: Registrazione
           description: "I registri che registrano attivit\xE0, eccezioni, guasti e\
-            \ altri  eventi rilevanti devono essere prodotti, memorizzati,  protetti\
+            \ altri eventi rilevanti devono essere prodotti, memorizzati, protetti\
             \ ed analizzati."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.16
       assessable: true
@@ -8368,9 +8367,9 @@ objects:
             \ del sistema para detectar, responder y mitigar las amenazas de seguridad."
         it:
           name: "Monitoraggio delle attivit\xE0"
-          description: Reti, sistemi e applicazioni devono essere monitorati  per
-            comportamenti anomali e devono essere adottate  azioni appropriate per
-            valutare potenziali incidenti di  sicurezza delle informazioni.
+          description: Reti, sistemi e applicazioni devono essere monitorati per comportamenti
+            anomali e devono essere adottate azioni appropriate per valutare potenziali
+            incidenti di sicurezza delle informazioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.17
       assessable: true
       depth: 3
@@ -8405,10 +8404,10 @@ objects:
             n sincronizados para mantener marcas de tiempo precisas y coherentes para\
             \ los registros y otros procesos cr\xEDticos."
         it:
-          name: Sincronizzazione  dell'orologio
-          description: Gli orologi dei sistemi di elaborazione delle  informazioni
-            utilizzati dall'organizzazione devono  essere sincronizzati con fonti
-            temporali approvate.
+          name: Sincronizzazione dell'orologio
+          description: Gli orologi dei sistemi di elaborazione delle informazioni
+            utilizzati dall'organizzazione devono essere sincronizzati con fonti temporali
+            approvate.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.18
       assessable: true
       depth: 3
@@ -8442,10 +8441,10 @@ objects:
           description: Este control restringe y supervisa el uso de programas de utilidad
             con privilegios para evitar el uso indebido y las acciones no autorizadas.
         it:
-          name: Utilizzo di programmi utility  privilegiati
-          description: L'uso di programmi utility che possono essere in grado  di
-            aggirare i controlli di sistema e delle applicazioni  deve essere limitato
-            e strettamente controllato.
+          name: Utilizzo di programmi utility privilegiati
+          description: L'uso di programmi utility che possono essere in grado di aggirare
+            i controlli di sistema e delle applicazioni deve essere limitato e strettamente
+            controllato.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.19
       assessable: true
       depth: 3
@@ -8481,9 +8480,9 @@ objects:
             \ los sistemas operativos se gestione de forma segura para evitar vulnerabilidades\
             \ o cambios no autorizados."
         it:
-          name: Installazione di software sui  sistemi operativi
-          description: Procedure e misure devono essere implementate per  gestire
-            in modo sicuro l'installazione di software sui  sistemi operativi.
+          name: Installazione di software sui sistemi operativi
+          description: Procedure e misure devono essere implementate per gestire in
+            modo sicuro l'installazione di software sui sistemi operativi.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.20
       assessable: true
       depth: 3
@@ -8522,8 +8521,8 @@ objects:
             \ para proteger contra accesos y ataques no autorizados."
         it:
           name: Sicurezza delle reti
-          description: Le reti e i dispositivi di rete devono essere protetti,  gestiti
-            e controllati per proteggere le informazioni nei  sistemi.
+          description: Le reti e i dispositivi di rete devono essere protetti, gestiti
+            e controllati per proteggere le informazioni nei sistemi.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.21
       assessable: true
       depth: 3
@@ -8558,9 +8557,9 @@ objects:
             \ para mantener la confidencialidad, la integridad y la disponibilidad\
             \ durante el uso."
         it:
-          name: Sicurezza dei servizi di rete  Controllo
-          description: I meccanismi di sicurezza, i livelli di servizio e i requisiti  di
-            servizio dei servizi di rete devono essere identificati,  implementati
+          name: Sicurezza dei servizi di rete Controllo
+          description: I meccanismi di sicurezza, i livelli di servizio e i requisiti
+            di servizio dei servizi di rete devono essere identificati, implementati
             e monitorati.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.22
       assessable: true
@@ -8596,8 +8595,8 @@ objects:
             \ la propagaci\xF3n de amenazas y minimizar el impacto de posibles infracciones."
         it:
           name: Segregazione delle reti
-          description: Gruppi di servizi informativi, utenti e sistemi informativi  devono
-            essere segregati nelle reti dell'organizzazione.
+          description: Gruppi di servizi informativi, utenti e sistemi informativi
+            devono essere segregati nelle reti dell'organizzazione.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.23
       assessable: true
       depth: 3
@@ -8632,7 +8631,7 @@ objects:
             \ el acceso a contenido no autorizado o da\xF1ino a trav\xE9s de Internet."
         it:
           name: Filtraggio web
-          description: L'accesso ai siti web esterni deve essere gestito per  ridurre
+          description: L'accesso ai siti web esterni deve essere gestito per ridurre
             l'esposizione a contenuti dannosi.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.24
       assessable: true
@@ -8669,8 +8668,8 @@ objects:
             \ los datos."
         it:
           name: Utilizzo della crittografia
-          description: Devono essere definite e implementate regole per  l'efficace
-            utilizzo della crittografia, inclusa la gestione  delle chiavi crittografiche.
+          description: Devono essere definite e implementate regole per l'efficace
+            utilizzo della crittografia, inclusa la gestione delle chiavi crittografiche.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.25
       assessable: true
       depth: 3
@@ -8706,8 +8705,8 @@ objects:
             de vida del desarrollo para garantizar que los sistemas y las aplicaciones
             se construyan de forma segura.
         it:
-          name: Ciclo di vita dello sviluppo  sicuro
-          description: Devono essere stabiliti e applicati principi per lo  sviluppo
+          name: Ciclo di vita dello sviluppo sicuro
+          description: Devono essere stabiliti e applicati principi per lo sviluppo
             sicuro di software e sistemi.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.26
       assessable: true
@@ -8740,9 +8739,9 @@ objects:
           description: Este control define y aplica los requisitos de seguridad de
             las aplicaciones para protegerse contra vulnerabilidades.
         it:
-          name: Requisiti di sicurezza delle  applicazioni
-          description: I requisiti di sicurezza delle informazioni devono essere  identificati,
-            specificati e approvati durante lo sviluppo o  l'acquisizione di applicazioni.
+          name: Requisiti di sicurezza delle applicazioni
+          description: I requisiti di sicurezza delle informazioni devono essere identificati,
+            specificati e approvati durante lo sviluppo o l'acquisizione di applicazioni.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.27
       assessable: true
       depth: 3
@@ -8777,10 +8776,10 @@ objects:
           description: "Este control garantiza que se adopten los principios de dise\xF1\
             o seguro durante el desarrollo de las arquitecturas de sistemas."
         it:
-          name: Architettura di sistema  sicuro e principi di  ingegneria
-          description: "Devono essere stabiliti, documentati, mantenuti e  applicati\
-            \ principi per l'ingegneria di sistemi sicuri a tutte  le attivit\xE0\
-            \ di sviluppo di sistemi informativi."
+          name: Architettura di sistema sicuro e principi di ingegneria
+          description: "Devono essere stabiliti, documentati, mantenuti e applicati\
+            \ principi per l'ingegneria di sistemi sicuri a tutte le attivit\xE0 di\
+            \ sviluppo di sistemi informativi."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.28
       assessable: true
       depth: 3
@@ -8813,7 +8812,7 @@ objects:
             \ para minimizar las vulnerabilidades en el software desarrollado."
         it:
           name: Codifica sicura
-          description: Principi di codifica sicura devono essere applicati allo  sviluppo
+          description: Principi di codifica sicura devono essere applicati allo sviluppo
             del software.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.29
       assessable: true
@@ -8849,8 +8848,8 @@ objects:
             \ a cabo durante las fases de desarrollo y aceptaci\xF3n para identificar\
             \ los puntos d\xE9biles."
         it:
-          name: Test di sicurezza nello  sviluppo e nell'accettazione
-          description: I processi di test di sicurezza devono essere definiti e  implementati
+          name: Test di sicurezza nello sviluppo e nell'accettazione
+          description: I processi di test di sicurezza devono essere definiti e implementati
             nel ciclo di vita dello sviluppo.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.30
       assessable: true
@@ -8886,8 +8885,8 @@ objects:
             de forma eficaz cuando el desarrollo se externaliza a proveedores externos.
         it:
           name: Sviluppo esterno
-          description: "L'organizzazione deve dirigere, monitorare e rivedere le \
-            \ attivit\xE0 relative allo sviluppo esterno dei sistemi."
+          description: "L'organizzazione deve dirigere, monitorare e rivedere le attivit\xE0\
+            \ relative allo sviluppo esterno dei sistemi."
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.31
       assessable: true
       depth: 3
@@ -8927,9 +8926,9 @@ objects:
             \ y producci\xF3n est\xE9n segregados para evitar interacciones no deseadas\
             \ y accesos no autorizados."
         it:
-          name: Separazione degli ambienti  di sviluppo, test e  produzione
-          description: Gli ambienti di sviluppo, test e produzione devono  essere
-            separati e protetti.
+          name: Separazione degli ambienti di sviluppo, test e produzione
+          description: Gli ambienti di sviluppo, test e produzione devono essere separati
+            e protetti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.32
       assessable: true
       depth: 3
@@ -8964,8 +8963,8 @@ objects:
             de forma segura para minimizar los riesgos y mantener la estabilidad operativa.
         it:
           name: Gestione dei cambiamenti
-          description: I cambiamenti alle strutture di elaborazione delle  informazioni
-            e ai sistemi informativi devono essere  soggetti a procedure di gestione
+          description: I cambiamenti alle strutture di elaborazione delle informazioni
+            e ai sistemi informativi devono essere soggetti a procedure di gestione
             dei cambiamenti.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.33
       assessable: true
@@ -9000,7 +8999,7 @@ objects:
             n de informaci\xF3n sensible o confidencial durante los procesos de prueba."
         it:
           name: Informazioni di test
-          description: Le informazioni di test devono essere selezionate,  protette
+          description: Le informazioni di test devono essere selezionate, protette
             e gestite in modo appropriato.
     - urn: urn:intuitem:risk:req_node:iso27001-2022:a.8.34
       assessable: true
@@ -9050,7 +9049,7 @@ objects:
             \ entornos que no son de producci\xF3n, restricciones de acceso y acuerdos\
             \ de confidencialidad para mantener la seguridad y la integridad del sistema."
         it:
-          name: Protezione dei sistemi  informativi durante i test di  audit
+          name: Protezione dei sistemi informativi durante i test di audit
           description: "I test di audit e altre attivit\xE0 di garanzia che coinvolgono\
-            \  la valutazione dei sistemi operativi devono essere  pianificati e concordati\
-            \ tra il tester e la gestione  appropriata."
+            \ la valutazione dei sistemi operativi devono essere pianificati e concordati\
+            \ tra il tester e la gestione appropriata."
